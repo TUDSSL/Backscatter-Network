@@ -1,0 +1,1 @@
+"./app.o" "./frame/frame.o" "./frame/frameValidation.o" "./mac/mac.o" "./phy/radio.o" "./phy/rx.o" "./phy/timers.o" "./phy/tx.o" "./sys/buffers.o" "./sys/debug.o" "./sys/node.o" "./sys/peripherals.o" -T"../msp430fr5969.ld" -Wl,--start-group -lgcc -lc -Wl,--end-group 

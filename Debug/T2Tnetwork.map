@@ -1,0 +1,2291 @@
+Archive member included to satisfy reference by file (symbol)
+
+/Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libgcc.a(lib2divHI.o)
+                              ./mac/mac.o (__mspabi_remi)
+/Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libgcc.a(srai.o)
+                              ./phy/tx.o (__mspabi_srai)
+/Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-malloc.o)
+                              ./sys/buffers.o (malloc)
+/Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-nano-freer.o)
+                              /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-malloc.o) (_free_r)
+/Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-nano-mallocr.o)
+                              /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-malloc.o) (_malloc_r)
+/Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-rand.o)
+                              ./app.o (srand)
+/Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-sbrkr.o)
+                              /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-nano-mallocr.o) (_sbrk_r)
+/Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-impure.o)
+                              /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-malloc.o) (_impure_ptr)
+/Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-reent.o)
+                              /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-sbrkr.o) (errno)
+/Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libgcc.a(_muldi3.o)
+                              /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-rand.o) (__mspabi_mpyll)
+/Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libgcc.a(_lshrdi3.o)
+                              /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-rand.o) (__lshrdi3)
+/Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libgcc.a(slli.o)
+                              /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libgcc.a(_muldi3.o) (__mspabi_slll)
+/Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libgcc.a(srli.o)
+                              /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libgcc.a(_muldi3.o) (__mspabi_srll)
+/Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libmul_f5.a(lib2hw_mul_f5.o)
+                              /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libgcc.a(_muldi3.o) (__mspabi_mpyl)
+/Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libcrt.a(crt_bss.o)
+                              /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/crtbegin.o (__crt0_init_bss)
+/Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libcrt.a(crt_movedata.o)
+                              /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/crtbegin.o (__crt0_movedata)
+/Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libcrt.a(crt_main.o)
+                              /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/crt0.o (__crt0_call_init_then_main)
+/Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libnosys.a(sbrk.o)
+                              /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-sbrkr.o) (sbrk)
+/Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libnosys.a(write.o)
+                              /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libnosys.a(sbrk.o) (write)
+/Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libnosys.a(cio.o)
+                              /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libnosys.a(write.o) (__CIOBUF__)
+/Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-abort.o)
+                              /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libnosys.a(sbrk.o) (abort)
+/Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-memcpy.o)
+                              /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libnosys.a(write.o) (memcpy)
+/Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-memmove.o)
+                              /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libcrt.a(crt_movedata.o) (memmove)
+/Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-memset.o)
+                              /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libcrt.a(crt_bss.o) (memset)
+/Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-signal.o)
+                              /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-abort.o) (raise)
+/Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-signalr.o)
+                              /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-signal.o) (_kill_r)
+/Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libnosys.a(ciosyscalls.o)
+                              /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-abort.o) (_exit)
+/Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-errno.o)
+                              /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libnosys.a(ciosyscalls.o) (__errno)
+
+Allocating common symbols
+Common symbol       size              file
+
+frameTx             0xb               ./phy/tx.o
+errno               0x2               /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-reent.o)
+debug_crc           0x2               ./frame/frameValidation.o
+byte_counter        0x1               ./phy/rx.o
+crc_buf             0x12              ./app.o
+tx_preamble_timeout
+                    0x1               ./app.o
+forward_frame       0x2               ./app.o
+wh                  0x1               ./sys/buffers.o
+mac_func            0x4               ./app.o
+timeCapture         0x2               ./phy/rx.o
+received_frame      0x2               ./app.o
+bit_counter         0x1               ./phy/rx.o
+crc                 0x2               ./frame/frame.o
+decoded_bits        0x1               ./phy/rx.o
+dummy_debug         0x2               ./app.o
+received_frame_correct
+                    0x2               ./app.o
+word_debug          0x2               ./sys/buffers.o
+rx_buf              0x12              ./phy/rx.o
+crcl                0x1               ./sys/buffers.o
+potential_zero      0x1               ./phy/rx.o
+buffer_debug        0x2               ./sys/buffers.o
+frame_crc           0x2               ./frame/frameValidation.o
+rx_timeout          0x1               ./app.o
+CRC_Result          0x2               ./frame/frameValidation.o
+buf_len             0x2               ./sys/buffers.o
+tx_buf              0x12              ./app.o
+rx_data_buf         0x12              ./app.o
+frameRx             0xb               ./frame/frameValidation.o
+wl                  0x1               ./sys/buffers.o
+checksum            0x2               ./frame/frameValidation.o
+received_frame_incorrect
+                    0x2               ./app.o
+crch                0x1               ./sys/buffers.o
+mac_timeout         0x4               ./app.o
+frame_reception_fsm
+                    0x4               ./phy/rx.o
+data_debug          0x1               ./sys/buffers.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+SFR              0x0000000000000000 0x0000000000000010
+BSL              0x0000000000001000 0x0000000000000800
+RAM              0x0000000000001c00 0x0000000000000800
+INFOMEM          0x0000000000001800 0x0000000000000200
+INFOA            0x0000000000001980 0x0000000000000080
+INFOB            0x0000000000001900 0x0000000000000080
+INFOC            0x0000000000001880 0x0000000000000080
+INFOD            0x0000000000001800 0x0000000000000080
+ROM              0x0000000000004400 0x000000000000bb80 xr
+HIFRAM           0x0000000000010000 0x0000000000003fff xrw
+JTAGSIGNATURE    0x000000000000ff80 0x0000000000000004
+BSLSIGNATURE     0x000000000000ff84 0x0000000000000004
+IPESIGNATURE     0x000000000000ff88 0x0000000000000008
+VECT1            0x000000000000ff90 0x0000000000000002
+VECT2            0x000000000000ff92 0x0000000000000002
+VECT3            0x000000000000ff94 0x0000000000000002
+VECT4            0x000000000000ff96 0x0000000000000002
+VECT5            0x000000000000ff98 0x0000000000000002
+VECT6            0x000000000000ff9a 0x0000000000000002
+VECT7            0x000000000000ff9c 0x0000000000000002
+VECT8            0x000000000000ff9e 0x0000000000000002
+VECT9            0x000000000000ffa0 0x0000000000000002
+VECT10           0x000000000000ffa2 0x0000000000000002
+VECT11           0x000000000000ffa4 0x0000000000000002
+VECT12           0x000000000000ffa6 0x0000000000000002
+VECT13           0x000000000000ffa8 0x0000000000000002
+VECT14           0x000000000000ffaa 0x0000000000000002
+VECT15           0x000000000000ffac 0x0000000000000002
+VECT16           0x000000000000ffae 0x0000000000000002
+VECT17           0x000000000000ffb0 0x0000000000000002
+VECT18           0x000000000000ffb2 0x0000000000000002
+VECT19           0x000000000000ffb4 0x0000000000000002
+VECT20           0x000000000000ffb6 0x0000000000000002
+VECT21           0x000000000000ffb8 0x0000000000000002
+VECT22           0x000000000000ffba 0x0000000000000002
+VECT23           0x000000000000ffbc 0x0000000000000002
+VECT24           0x000000000000ffbe 0x0000000000000002
+VECT25           0x000000000000ffc0 0x0000000000000002
+VECT26           0x000000000000ffc2 0x0000000000000002
+VECT27           0x000000000000ffc4 0x0000000000000002
+VECT28           0x000000000000ffc6 0x0000000000000002
+VECT29           0x000000000000ffc8 0x0000000000000002
+VECT30           0x000000000000ffca 0x0000000000000002
+VECT31           0x000000000000ffcc 0x0000000000000002
+VECT32           0x000000000000ffce 0x0000000000000002
+VECT33           0x000000000000ffd0 0x0000000000000002
+VECT34           0x000000000000ffd2 0x0000000000000002
+VECT35           0x000000000000ffd4 0x0000000000000002
+VECT36           0x000000000000ffd6 0x0000000000000002
+VECT37           0x000000000000ffd8 0x0000000000000002
+VECT38           0x000000000000ffda 0x0000000000000002
+VECT39           0x000000000000ffdc 0x0000000000000002
+VECT40           0x000000000000ffde 0x0000000000000002
+VECT41           0x000000000000ffe0 0x0000000000000002
+VECT42           0x000000000000ffe2 0x0000000000000002
+VECT43           0x000000000000ffe4 0x0000000000000002
+VECT44           0x000000000000ffe6 0x0000000000000002
+VECT45           0x000000000000ffe8 0x0000000000000002
+VECT46           0x000000000000ffea 0x0000000000000002
+VECT47           0x000000000000ffec 0x0000000000000002
+VECT48           0x000000000000ffee 0x0000000000000002
+VECT49           0x000000000000fff0 0x0000000000000002
+VECT50           0x000000000000fff2 0x0000000000000002
+VECT51           0x000000000000fff4 0x0000000000000002
+VECT52           0x000000000000fff6 0x0000000000000002
+VECT53           0x000000000000fff8 0x0000000000000002
+VECT54           0x000000000000fffa 0x0000000000000002
+VECT55           0x000000000000fffc 0x0000000000000002
+RESETVEC         0x000000000000fffe 0x0000000000000002
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/crt0.o
+LOAD /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/crtbegin.o
+LOAD ./app.o
+LOAD ./frame/frame.o
+LOAD ./frame/frameValidation.o
+LOAD ./mac/mac.o
+LOAD ./phy/radio.o
+LOAD ./phy/rx.o
+LOAD ./phy/timers.o
+LOAD ./phy/tx.o
+LOAD ./sys/buffers.o
+LOAD ./sys/debug.o
+LOAD ./sys/node.o
+LOAD ./sys/peripherals.o
+START GROUP
+LOAD /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libgcc.a
+LOAD /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a
+END GROUP
+LOAD /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libgcc.a
+START GROUP
+LOAD /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libmul_f5.a
+LOAD /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a
+LOAD /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libgcc.a
+LOAD /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libcrt.a
+LOAD /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libnosys.a
+END GROUP
+LOAD /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libgcc.a
+LOAD /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/crtend.o
+LOAD /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/crtn.o
+LOAD /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libgcc.a
+
+.jtagsignature
+
+.bslsignature
+
+.ipe
+ *(.ipesignature)
+ *(.jtagpassword)
+
+__interrupt_vector_1
+ *(__interrupt_vector_1)
+
+__interrupt_vector_2
+ *(__interrupt_vector_2)
+
+__interrupt_vector_3
+ *(__interrupt_vector_3)
+
+__interrupt_vector_4
+ *(__interrupt_vector_4)
+
+__interrupt_vector_5
+ *(__interrupt_vector_5)
+
+__interrupt_vector_6
+ *(__interrupt_vector_6)
+
+__interrupt_vector_7
+ *(__interrupt_vector_7)
+
+__interrupt_vector_8
+ *(__interrupt_vector_8)
+
+__interrupt_vector_9
+ *(__interrupt_vector_9)
+
+__interrupt_vector_10
+ *(__interrupt_vector_10)
+
+__interrupt_vector_11
+ *(__interrupt_vector_11)
+
+__interrupt_vector_12
+ *(__interrupt_vector_12)
+
+__interrupt_vector_13
+ *(__interrupt_vector_13)
+
+__interrupt_vector_14
+ *(__interrupt_vector_14)
+
+__interrupt_vector_15
+ *(__interrupt_vector_15)
+
+__interrupt_vector_16
+ *(__interrupt_vector_16)
+
+__interrupt_vector_17
+ *(__interrupt_vector_17)
+
+__interrupt_vector_18
+ *(__interrupt_vector_18)
+
+__interrupt_vector_19
+ *(__interrupt_vector_19)
+
+__interrupt_vector_20
+ *(__interrupt_vector_20)
+
+__interrupt_vector_21
+ *(__interrupt_vector_21)
+
+__interrupt_vector_22
+ *(__interrupt_vector_22)
+
+__interrupt_vector_23
+ *(__interrupt_vector_23)
+
+__interrupt_vector_24
+ *(__interrupt_vector_24)
+
+__interrupt_vector_25
+ *(__interrupt_vector_25)
+
+__interrupt_vector_26
+ *(__interrupt_vector_26)
+
+__interrupt_vector_27
+ *(__interrupt_vector_27)
+
+__interrupt_vector_28
+ *(__interrupt_vector_28)
+
+__interrupt_vector_29
+ *(__interrupt_vector_29)
+
+__interrupt_vector_30
+ *(__interrupt_vector_30)
+
+__interrupt_vector_31
+ *(__interrupt_vector_31)
+ *(__interrupt_vector_aes256)
+
+__interrupt_vector_32
+ *(__interrupt_vector_32)
+ *(__interrupt_vector_rtc)
+
+__interrupt_vector_33
+ *(__interrupt_vector_33)
+ *(__interrupt_vector_port4)
+
+__interrupt_vector_34
+ *(__interrupt_vector_34)
+ *(__interrupt_vector_port3)
+
+__interrupt_vector_35
+ *(__interrupt_vector_35)
+ *(__interrupt_vector_timer3_a1)
+
+__interrupt_vector_36
+ *(__interrupt_vector_36)
+ *(__interrupt_vector_timer3_a0)
+
+__interrupt_vector_37
+ *(__interrupt_vector_37)
+ *(__interrupt_vector_port2)
+
+__interrupt_vector_38
+                0x000000000000ffda        0x2
+ *(__interrupt_vector_38)
+ __interrupt_vector_38
+                0x000000000000ffda        0x2 ./phy/timers.o
+ *(__interrupt_vector_timer2_a1)
+
+__interrupt_vector_39
+ *(__interrupt_vector_39)
+ *(__interrupt_vector_timer2_a0)
+
+__interrupt_vector_40
+ *(__interrupt_vector_40)
+ *(__interrupt_vector_port1)
+
+__interrupt_vector_41
+                0x000000000000ffe0        0x2
+ *(__interrupt_vector_41)
+ __interrupt_vector_41
+                0x000000000000ffe0        0x2 ./phy/timers.o
+ *(__interrupt_vector_timer1_a1)
+
+__interrupt_vector_42
+                0x000000000000ffe2        0x2
+ *(__interrupt_vector_42)
+ __interrupt_vector_42
+                0x000000000000ffe2        0x2 ./phy/timers.o
+ *(__interrupt_vector_timer1_a0)
+
+__interrupt_vector_43
+ *(__interrupt_vector_43)
+ *(__interrupt_vector_dma)
+
+__interrupt_vector_44
+ *(__interrupt_vector_44)
+ *(__interrupt_vector_usci_a1)
+
+__interrupt_vector_45
+ *(__interrupt_vector_45)
+ *(__interrupt_vector_timer0_a1)
+
+__interrupt_vector_46
+ *(__interrupt_vector_46)
+ *(__interrupt_vector_timer0_a0)
+
+__interrupt_vector_47
+ *(__interrupt_vector_47)
+ *(__interrupt_vector_adc12)
+
+__interrupt_vector_48
+ *(__interrupt_vector_48)
+ *(__interrupt_vector_usci_b0)
+
+__interrupt_vector_49
+ *(__interrupt_vector_49)
+ *(__interrupt_vector_usci_a0)
+
+__interrupt_vector_50
+ *(__interrupt_vector_50)
+ *(__interrupt_vector_wdt)
+
+__interrupt_vector_51
+                0x000000000000fff4        0x2
+ *(__interrupt_vector_51)
+ __interrupt_vector_51
+                0x000000000000fff4        0x2 ./phy/rx.o
+ *(__interrupt_vector_timer0_b1)
+
+__interrupt_vector_52
+ *(__interrupt_vector_52)
+ *(__interrupt_vector_timer0_b0)
+
+__interrupt_vector_53
+ *(__interrupt_vector_53)
+ *(__interrupt_vector_comp_e)
+
+__interrupt_vector_54
+ *(__interrupt_vector_54)
+ *(__interrupt_vector_unmi)
+
+__interrupt_vector_55
+ *(__interrupt_vector_55)
+ *(__interrupt_vector_sysnmi)
+
+__reset_vector  0x000000000000fffe        0x2
+ *(__interrupt_vector_56)
+ *(__interrupt_vector_reset)
+ *(.resetvec)
+ .resetvec      0x000000000000fffe        0x2 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/crt0.o
+
+.rodata         0x0000000000004400       0x20
+                0x0000000000004400                . = ALIGN (0x2)
+ *(.plt)
+ *(.rodata .rodata.* .gnu.linkonce.r.* .const .const:*)
+ .rodata._global_impure_ptr
+                0x0000000000004400        0x4 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-impure.o)
+                0x0000000000004400                _global_impure_ptr
+ .rodata        0x0000000000004404        0x2 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-impure.o)
+ .rodata        0x0000000000004406       0x1a /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libnosys.a(sbrk.o)
+ *(.rodata1)
+ *(.lower.rodata.* .lower.rodata)
+ *(.gcc_except_table)
+ *(.gcc_except_table.*)
+                0x0000000000004420                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x0000000000004420                PROVIDE (__preinit_array_end, .)
+                0x0000000000004420                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+                0x0000000000004420                PROVIDE (__init_array_end, .)
+                0x0000000000004420                PROVIDE (__fini_array_start, .)
+ *(.fini_array)
+ *(SORT(.fini_array.*))
+                0x0000000000004420                PROVIDE (__fini_array_end, .)
+
+.rodata2        0x0000000000004420       0x14
+                0x0000000000004420                . = ALIGN (0x2)
+ *(.eh_frame_hdr)
+ *(.eh_frame)
+ .eh_frame      0x0000000000004420        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/crtbegin.o
+ .eh_frame      0x0000000000004420        0x4 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/crtend.o
+ *crtbegin*.o(.ctors)
+ .ctors         0x0000000000004424        0x4 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/crtbegin.o
+ *(EXCLUDE_FILE(*crtend*.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ .ctors         0x0000000000004428        0x4 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/crtend.o
+ *crtbegin*.o(.dtors)
+ .dtors         0x000000000000442c        0x4 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/crtbegin.o
+ *(EXCLUDE_FILE(*crtend*.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ .dtors         0x0000000000004430        0x4 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/crtend.o
+                0x0000000000004430                __DTOR_END__
+
+.upper.rodata
+ *(.upper.rodata.* .upper.rodata)
+
+.persistent     0x0000000000010000        0x0
+                0x0000000000010000                . = ALIGN (0x2)
+                [!provide]                        PROVIDE (__persistent_start, .)
+ *(.persistent)
+                0x0000000000010000                . = ALIGN (0x2)
+                [!provide]                        PROVIDE (__persistent_end, .)
+
+.data           0x0000000000001c00      0x15e load address 0x0000000000004434
+                0x0000000000001c00                . = ALIGN (0x2)
+                0x0000000000001c00                PROVIDE (__datastart, .)
+ *(.jcr)
+ .jcr           0x0000000000001c00        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/crtbegin.o
+ .jcr           0x0000000000001c00        0x4 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/crtend.o
+ *(.data.rel.ro.local)
+ *(.data.rel.ro*)
+ *(.dynamic)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x0000000000001c04        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/crt0.o
+ .data          0x0000000000001c04        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/crtbegin.o
+ .data.__dso_handle
+                0x0000000000001c04        0x4 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/crtbegin.o
+                0x0000000000001c04                __dso_handle
+ .data          0x0000000000001c08        0x4 ./app.o
+                0x0000000000001c08                tx_cntr
+                0x0000000000001c0a                transmitted_frame
+ .data          0x0000000000001c0c        0xf ./frame/frame.o
+                0x0000000000001c0c                frameBx
+                0x0000000000001c17                frame_type
+                0x0000000000001c18                frame_ttl
+                0x0000000000001c19                frame_sender_id
+                0x0000000000001c1a                frame_receiver_id
+ .data          0x0000000000001c1b        0x1 ./frame/frameValidation.o
+ .data          0x0000000000001c1c        0x1 ./mac/mac.o
+                0x0000000000001c1c                end_mac_flag
+ .data          0x0000000000001c1d        0x2 ./phy/radio.o
+                0x0000000000001c1d                preamble_detected
+                0x0000000000001c1e                channel_busy
+ .data          0x0000000000001c1f        0xb ./phy/rx.o
+                0x0000000000001c1f                frame
+ .data          0x0000000000001c2a        0x0 ./phy/timers.o
+ .data          0x0000000000001c2a        0x0 ./phy/tx.o
+ .data          0x0000000000001c2a        0x0 ./sys/buffers.o
+ .data          0x0000000000001c2a        0x0 ./sys/debug.o
+ .data          0x0000000000001c2a        0x0 ./sys/node.o
+ .data          0x0000000000001c2a        0x0 ./sys/peripherals.o
+ .data          0x0000000000001c2a        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libgcc.a(lib2divHI.o)
+ .data          0x0000000000001c2a        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libgcc.a(srai.o)
+ .data          0x0000000000001c2a        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-malloc.o)
+ .data          0x0000000000001c2a        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-nano-freer.o)
+ .data          0x0000000000001c2a        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-nano-mallocr.o)
+ .data          0x0000000000001c2a        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-rand.o)
+ .data          0x0000000000001c2a        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-sbrkr.o)
+ .data          0x0000000000001c2a        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x0000000000001c2a        0x4 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-impure.o)
+                0x0000000000001c2a                _impure_ptr
+ .data.impure_data
+                0x0000000000001c2e       0xe0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-impure.o)
+ .data          0x0000000000001d0e        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-reent.o)
+ .data          0x0000000000001d0e        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libgcc.a(_muldi3.o)
+ .data          0x0000000000001d0e        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libgcc.a(_lshrdi3.o)
+ .data          0x0000000000001d0e        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libgcc.a(slli.o)
+ .data          0x0000000000001d0e        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libgcc.a(srli.o)
+ .data          0x0000000000001d0e        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libmul_f5.a(lib2hw_mul_f5.o)
+ .data          0x0000000000001d0e        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libcrt.a(crt_bss.o)
+ .data          0x0000000000001d0e        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libcrt.a(crt_movedata.o)
+ .data          0x0000000000001d0e        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libcrt.a(crt_main.o)
+ .data          0x0000000000001d0e        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libnosys.a(sbrk.o)
+ .data.heap.1381
+                0x0000000000001d0e        0x4 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libnosys.a(sbrk.o)
+ .data          0x0000000000001d12        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libnosys.a(write.o)
+ .data          0x0000000000001d12       0x4b /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libnosys.a(cio.o)
+                0x0000000000001d12                __CIOBUF__
+                0x0000000000001d12                _CIOBUF_
+ .data          0x0000000000001d5d        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-abort.o)
+ .data          0x0000000000001d5d        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-memcpy.o)
+ .data          0x0000000000001d5d        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-memmove.o)
+ .data          0x0000000000001d5d        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-memset.o)
+ .data          0x0000000000001d5d        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-signal.o)
+ .data          0x0000000000001d5d        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-signalr.o)
+ .data          0x0000000000001d5d        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libnosys.a(ciosyscalls.o)
+ .data          0x0000000000001d5d        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-errno.o)
+ .data          0x0000000000001d5d        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/crtend.o
+ .data          0x0000000000001d5d        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/crtn.o
+ *(.gnu.linkonce.d.*personality*)
+ *(.data1)
+ *(.got.plt)
+ *(.got)
+                0x0000000000001d5e                . = ALIGN (0x2)
+ *fill*         0x0000000000001d5d        0x1 
+ *(.sdata .sdata.* .gnu.linkonce.s.* D_2 D_1)
+                0x0000000000001d5e                . = ALIGN (0x2)
+ *(.lower.data.* .lower.data)
+                0x0000000000001d5e                . = ALIGN (0x2)
+                0x0000000000001d5e                _edata = .
+                [!provide]                        PROVIDE (edata, .)
+                [!provide]                        PROVIDE (__dataend, .)
+                0x0000000000004434                PROVIDE (__romdatastart, LOADADDR (.data))
+                0x000000000000015e                PROVIDE (__romdatacopysize, SIZEOF (.data))
+
+.upper.data     0x0000000000010000        0x2 load address 0x0000000000004592
+                0x0000000000004592                __upper_data_init = LOADADDR (.upper.data)
+                0x0000000000010000        0x2 SHORT 0x1
+                0x0000000000010002                __high_datastart = .
+ *(.upper.data.* .upper.data)
+                0x0000000000010002                __high_dataend = .
+                0x0000000000000000                __rom_highdatacopysize = (SIZEOF (.upper.data) - 0x2)
+                0x0000000000004594                __rom_highdatastart = (LOADADDR (.upper.data) + 0x2)
+
+.bss            0x0000000000001d5e       0xc4
+                0x0000000000001d5e                . = ALIGN (0x2)
+                0x0000000000001d5e                PROVIDE (__bssstart, .)
+ *(.dynbss)
+ *(.sbss .sbss.*)
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x0000000000001d5e        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/crt0.o
+ .bss           0x0000000000001d5e        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/crtbegin.o
+ .bss.completed.3086
+                0x0000000000001d5e        0x1 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/crtbegin.o
+ *fill*         0x0000000000001d5f        0x1 
+ .bss.dtor_idx.3088
+                0x0000000000001d60        0x4 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/crtbegin.o
+ .bss.object.3101
+                0x0000000000001d64       0x18 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/crtbegin.o
+ .bss           0x0000000000001d7c        0x0 ./app.o
+ .bss           0x0000000000001d7c        0x0 ./frame/frame.o
+ .bss           0x0000000000001d7c        0x0 ./frame/frameValidation.o
+ .bss           0x0000000000001d7c        0x0 ./mac/mac.o
+ .bss           0x0000000000001d7c        0x0 ./phy/radio.o
+ .bss           0x0000000000001d7c        0x0 ./phy/rx.o
+ .bss           0x0000000000001d7c        0x0 ./phy/timers.o
+ .bss           0x0000000000001d7c        0x1 ./phy/tx.o
+ .bss           0x0000000000001d7d        0x0 ./sys/buffers.o
+ .bss           0x0000000000001d7d        0x0 ./sys/debug.o
+ .bss           0x0000000000001d7d        0x1 ./sys/node.o
+ .bss           0x0000000000001d7e        0x0 ./sys/peripherals.o
+ .bss           0x0000000000001d7e        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libgcc.a(lib2divHI.o)
+ .bss           0x0000000000001d7e        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libgcc.a(srai.o)
+ .bss           0x0000000000001d7e        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-malloc.o)
+ .bss           0x0000000000001d7e        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-nano-freer.o)
+ .bss           0x0000000000001d7e        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-nano-mallocr.o)
+ .bss.__malloc_sbrk_start
+                0x0000000000001d7e        0x4 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-nano-mallocr.o)
+                0x0000000000001d7e                __malloc_sbrk_start
+ .bss.__malloc_free_list
+                0x0000000000001d82        0x4 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-nano-mallocr.o)
+                0x0000000000001d82                __malloc_free_list
+ .bss           0x0000000000001d86        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-rand.o)
+ .bss           0x0000000000001d86        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-sbrkr.o)
+ .bss           0x0000000000001d86        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-impure.o)
+ .bss           0x0000000000001d86        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-reent.o)
+ .bss           0x0000000000001d86        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libgcc.a(_muldi3.o)
+ .bss           0x0000000000001d86        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libgcc.a(_lshrdi3.o)
+ .bss           0x0000000000001d86        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libgcc.a(slli.o)
+ .bss           0x0000000000001d86        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libgcc.a(srli.o)
+ .bss           0x0000000000001d86        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libmul_f5.a(lib2hw_mul_f5.o)
+ .bss           0x0000000000001d86        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libcrt.a(crt_bss.o)
+ .bss           0x0000000000001d86        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libcrt.a(crt_movedata.o)
+ .bss           0x0000000000001d86        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libcrt.a(crt_main.o)
+ .bss           0x0000000000001d86        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libnosys.a(sbrk.o)
+ .bss           0x0000000000001d86        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libnosys.a(write.o)
+ .bss           0x0000000000001d86        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libnosys.a(cio.o)
+ .bss           0x0000000000001d86        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-abort.o)
+ .bss           0x0000000000001d86        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-memcpy.o)
+ .bss           0x0000000000001d86        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-memmove.o)
+ .bss           0x0000000000001d86        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-memset.o)
+ .bss           0x0000000000001d86        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-signal.o)
+ .bss           0x0000000000001d86        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-signalr.o)
+ .bss           0x0000000000001d86        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libnosys.a(ciosyscalls.o)
+ .bss           0x0000000000001d86        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-errno.o)
+ .bss           0x0000000000001d86        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/crtend.o
+ .bss           0x0000000000001d86        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/crtn.o
+ *(.lower.bss.* .lower.bss)
+                0x0000000000001d86                . = ALIGN (0x2)
+ *(COMMON)
+ COMMON         0x0000000000001d86       0x4c ./app.o
+                0x0000000000001d86                crc_buf
+                0x0000000000001d98                tx_preamble_timeout
+                0x0000000000001d9a                forward_frame
+                0x0000000000001d9c                mac_func
+                0x0000000000001da0                received_frame
+                0x0000000000001da2                dummy_debug
+                0x0000000000001da4                received_frame_correct
+                0x0000000000001da6                rx_timeout
+                0x0000000000001da8                tx_buf
+                0x0000000000001dba                rx_data_buf
+                0x0000000000001dcc                received_frame_incorrect
+                0x0000000000001dce                mac_timeout
+ COMMON         0x0000000000001dd2        0x2 ./frame/frame.o
+                0x0000000000001dd2                crc
+ COMMON         0x0000000000001dd4       0x14 ./frame/frameValidation.o
+                0x0000000000001dd4                debug_crc
+                0x0000000000001dd6                frame_crc
+                0x0000000000001dd8                CRC_Result
+                0x0000000000001dda                frameRx
+                0x0000000000001de6                checksum
+ COMMON         0x0000000000001de8       0x1e ./phy/rx.o
+                0x0000000000001de8                byte_counter
+                0x0000000000001dea                timeCapture
+                0x0000000000001dec                bit_counter
+                0x0000000000001ded                decoded_bits
+                0x0000000000001dee                rx_buf
+                0x0000000000001e00                potential_zero
+                0x0000000000001e02                frame_reception_fsm
+ COMMON         0x0000000000001e06        0xb ./phy/tx.o
+                0x0000000000001e06                frameTx
+ *fill*         0x0000000000001e11        0x1 
+ COMMON         0x0000000000001e12        0xd ./sys/buffers.o
+                0x0000000000001e12                wh
+                0x0000000000001e14                word_debug
+                0x0000000000001e16                crcl
+                0x0000000000001e18                buffer_debug
+                0x0000000000001e1a                buf_len
+                0x0000000000001e1c                wl
+                0x0000000000001e1d                crch
+                0x0000000000001e1e                data_debug
+ *fill*         0x0000000000001e1f        0x1 
+ COMMON         0x0000000000001e20        0x2 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-reent.o)
+                0x0000000000001e20                errno
+                [!provide]                        PROVIDE (__bssend, .)
+                0x00000000000000c4                PROVIDE (__bsssize, SIZEOF (.bss))
+
+.upper.bss      0x0000000000010002        0x0
+                0x0000000000010002                . = ALIGN (0x2)
+                0x0000000000010002                __high_bssstart = .
+ *(.upper.bss.* .upper.bss)
+                0x0000000000010002                . = ALIGN (0x2)
+                0x0000000000010002                __high_bssend = .
+                0x0000000000000000                __high_bsssize = SIZEOF (.upper.bss)
+
+.noinit         0x0000000000001e22        0x0
+                0x0000000000001e22                . = ALIGN (0x2)
+                [!provide]                        PROVIDE (__noinit_start, .)
+ *(.noinit)
+                0x0000000000001e22                . = ALIGN (0x2)
+                [!provide]                        PROVIDE (__noinit_end, .)
+
+.heap           0x0000000000001e22        0x4
+                0x0000000000001e22                . = ALIGN (0x2)
+                0x0000000000001e22                __heap_start__ = .
+                0x0000000000001e22                _end = __heap_start__
+                0x0000000000001e22                PROVIDE (end, .)
+ *(.heap)
+                0x0000000000001e22                _end = .
+                [!provide]                        PROVIDE (end, .)
+                0x0000000000001e22        0x4 LONG 0x0
+                0x0000000000001e26                __heap_end__ = .
+                0x0000000000001e26                __HeapLimit = __heap_end__
+
+.stack          0x0000000000002400        0x0
+                0x0000000000002400                PROVIDE (__stack, .)
+ *(.stack)
+
+.text           0x0000000000004594     0x1de8
+                0x0000000000004594                PROVIDE (_start, .)
+                0x0000000000004594                . = ALIGN (0x2)
+ *(SORT(.crt_*))
+ .crt_0000start
+                0x0000000000004594        0x4 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/crt0.o
+                0x0000000000004594                __crt0_start
+ .crt_0100init_bss
+                0x0000000000004598       0x10 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libcrt.a(crt_bss.o)
+                0x0000000000004598                __crt0_init_bss
+ .crt_0300movedata
+                0x00000000000045a8       0x14 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libcrt.a(crt_movedata.o)
+                0x00000000000045a8                __crt0_movedata
+ .crt_0700call_init_then_main
+                0x00000000000045bc        0xa /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libcrt.a(crt_main.o)
+                0x00000000000045bc                __crt0_call_init_then_main
+ .crt_0900main_init
+                0x00000000000045c6       0x40 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/crt0.o
+                0x00000000000045c6                _msp430_run_init_array
+                0x00000000000045d6                _msp430_run_preinit_array
+                0x00000000000045e6                _msp430_run_fini_array
+                0x0000000000004606                . = ALIGN (0x2)
+ *(.lowtext)
+ .lowtext       0x0000000000004606       0xca ./phy/rx.o
+                0x0000000000004606                Timer0_B1_ISR
+ .lowtext       0x00000000000046d0       0x80 ./phy/timers.o
+                0x00000000000046d0                Timer1_A0_ISR
+                0x00000000000046e4                Timer1_A1_ISR
+                0x000000000000471a                Timer2_A1_ISR
+                0x0000000000004750                . = ALIGN (0x2)
+ *(.lower.text.* .lower.text)
+                0x0000000000004750                . = ALIGN (0x2)
+ *(.text .stub .text.* .gnu.linkonce.t.* .text:*)
+ .text          0x0000000000004750        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/crt0.o
+ .text          0x0000000000004750        0x4 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/crtbegin.o
+ .text.deregister_tm_clones
+                0x0000000000004754       0x22 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/crtbegin.o
+ .text.register_tm_clones
+                0x0000000000004776       0x7c /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/crtbegin.o
+ .text.__do_global_dtors_aux
+                0x00000000000047f2       0x9e /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/crtbegin.o
+ .text.call___do_global_dtors_aux
+                0x0000000000004890        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/crtbegin.o
+ .text.frame_dummy
+                0x0000000000004890       0x32 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/crtbegin.o
+ .text.call_frame_dummy
+                0x00000000000048c2        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/crtbegin.o
+ .text          0x00000000000048c2       0xb4 ./app.o
+                0x00000000000048c2                init
+                0x00000000000048f4                main
+ .text          0x0000000000004976       0xe4 ./frame/frame.o
+                0x0000000000004976                set_frame_type
+                0x000000000000497e                set_frame_receiver_id
+                0x0000000000004986                set_frame_sender_id
+                0x000000000000498e                set_ttl
+                0x0000000000004996                frame_crc_checksum
+                0x00000000000049b2                update_frame_crc
+                0x00000000000049c2                create_frame
+ .text          0x0000000000004a5a      0x164 ./frame/frameValidation.o
+                0x0000000000004a5a                wait_frame_state
+                0x0000000000004a82                save_payload_state
+                0x0000000000004b00                get_frame_sender_id
+                0x0000000000004b06                get_frame_receiver_id
+                0x0000000000004b0c                get_frame_type
+                0x0000000000004b12                get_frame_crc
+                0x0000000000004b28                check_crc_state
+                0x0000000000004b86                update_ttl
+                0x0000000000004b9a                check_ttl
+                0x0000000000004ba8                frame_validation
+ .text          0x0000000000004bbe      0x176 ./mac/mac.o
+                0x0000000000004bdc                preamble_sampling
+                0x0000000000004cc4                mac_init
+                0x0000000000004cf6                mac_fsm
+ .text          0x0000000000004d34       0x66 ./phy/radio.o
+                0x0000000000004d34                transceiver_enable
+                0x0000000000004d42                transceiver_disable
+                0x0000000000004d4a                rf_sw_init
+                0x0000000000004d5c                radio_init
+                0x0000000000004d66                backscatter_state
+                0x0000000000004d8c                receive_state
+ .text          0x0000000000004d9a      0x118 ./phy/rx.o
+                0x0000000000004d9a                detect_frame
+                0x0000000000004df0                rx_init
+                0x0000000000004e22                start_capture
+                0x0000000000004e32                stop_capture
+                0x0000000000004e3c                catch_frame
+ .text          0x0000000000004eb2       0x86 ./phy/timers.o
+                0x0000000000004eb2                mac_down_cntr
+                0x0000000000004edc                slow_timer_delay
+                0x0000000000004f08                fast_timer_delay
+ .text          0x0000000000004f38      0x13a ./phy/tx.o
+                0x0000000000004f38                backscatter
+                0x0000000000004f5e                backscatter_1
+                0x0000000000004f72                backscatter_0
+                0x0000000000004fa0                backscatter_byte
+                0x0000000000004fd4                backscatter_frame_preamble
+                0x0000000000004ffe                backscatter_frame_helper
+                0x0000000000005028                backscatter_frame
+ .text          0x0000000000005072      0x20a ./sys/buffers.o
+                0x0000000000005072                rbuf_init
+                0x00000000000050d2                _advance_idx
+                0x00000000000050ea                rbuf_empty
+                0x00000000000050f8                rbuf_data_len
+                0x00000000000050fe                rbuf_full
+                0x000000000000511c                rbuf_put
+                0x0000000000005172                rbuf_get
+                0x00000000000051a0                rbuf_write
+                0x00000000000051d2                rbuf_read
+                0x0000000000005212                rbuf_crc_search
+ .text          0x000000000000527c      0x188 ./sys/debug.o
+                0x000000000000527c                debug_pins_init
+                0x000000000000529c                set_p1_2
+                0x00000000000052a4                clear_p1_2
+                0x00000000000052ac                set_p1_3
+                0x00000000000052b4                clear_p1_3
+                0x00000000000052bc                set_p1_4
+                0x00000000000052c6                clear_p1_4
+                0x00000000000052d0                set_p1_7
+                0x00000000000052da                clear_p1_7
+                0x00000000000052e4                clear_p2_5
+                0x00000000000052ee                set_p2_5
+                0x00000000000052f4                clear_p2_6
+                0x00000000000052fe                set_p2_6
+                0x0000000000005304                set_p3_0
+                0x000000000000530c                clear_p3_0
+                0x0000000000005314                set_p3_5
+                0x000000000000531e                clear_p3_5
+                0x0000000000005328                set_p3_6
+                0x0000000000005332                clear_p3_6
+                0x000000000000533c                set_p4_2
+                0x0000000000005344                clear_p4_2
+                0x000000000000534c                red_led_init
+                0x0000000000005356                green_led_init
+                0x000000000000535e                leds_init
+                0x0000000000005368                red_led_blink
+                0x00000000000053b8                green_led_blink
+ .text          0x0000000000005404       0x10 ./sys/node.o
+                0x0000000000005404                set_node_id
+                0x000000000000540c                get_node_id
+ .text          0x0000000000005414       0xce ./sys/peripherals.o
+                0x0000000000005414                calCRC
+                0x000000000000542a                gpio_init
+                0x0000000000005468                clock_init
+                0x00000000000054aa                slow_timer_init
+                0x00000000000054b4                fast_timer_init
+                0x00000000000054be                decode_timer_init
+                0x00000000000054c8                timers_init
+ .text          0x00000000000054e2        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libgcc.a(lib2divHI.o)
+ .text.udivmodhi4
+                0x00000000000054e2       0x40 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libgcc.a(lib2divHI.o)
+                0x00000000000054e2                udivmodhi4
+ .text.__divhi3
+                0x0000000000005522       0x50 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libgcc.a(lib2divHI.o)
+                0x0000000000005522                __mspabi_divi
+ .text.__modhi3
+                0x0000000000005572       0x32 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libgcc.a(lib2divHI.o)
+                0x0000000000005572                __mspabi_remi
+ .text.__udivhi3
+                0x00000000000055a4        0x8 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libgcc.a(lib2divHI.o)
+                0x00000000000055a4                __mspabi_divu
+ .text.__umodhi3
+                0x00000000000055ac        0x8 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libgcc.a(lib2divHI.o)
+                0x00000000000055ac                __mspabi_remu
+ .text          0x00000000000055b4       0x74 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libgcc.a(srai.o)
+                0x00000000000055b4                __mspabi_srai_15
+                0x00000000000055b6                __mspabi_srai_14
+                0x00000000000055b8                __mspabi_srai_13
+                0x00000000000055ba                __mspabi_srai_12
+                0x00000000000055bc                __mspabi_srai_11
+                0x00000000000055be                __mspabi_srai_10
+                0x00000000000055c0                __mspabi_srai_9
+                0x00000000000055c2                __mspabi_srai_8
+                0x00000000000055c4                __mspabi_srai_7
+                0x00000000000055c6                __mspabi_srai_6
+                0x00000000000055c8                __mspabi_srai_5
+                0x00000000000055ca                __mspabi_srai_4
+                0x00000000000055cc                __mspabi_srai_3
+                0x00000000000055ce                __mspabi_srai_2
+                0x00000000000055d0                __mspabi_srai_1
+                0x00000000000055d8                __mspabi_srai
+                0x00000000000055de                __mspabi_sral_15
+                0x00000000000055e2                __mspabi_sral_14
+                0x00000000000055e6                __mspabi_sral_13
+                0x00000000000055ea                __mspabi_sral_12
+                0x00000000000055ee                __mspabi_sral_11
+                0x00000000000055f2                __mspabi_sral_10
+                0x00000000000055f6                __mspabi_sral_9
+                0x00000000000055fa                __mspabi_sral_8
+                0x00000000000055fe                __mspabi_sral_7
+                0x0000000000005602                __mspabi_sral_6
+                0x0000000000005606                __mspabi_sral_5
+                0x000000000000560a                __mspabi_sral_4
+                0x000000000000560e                __mspabi_sral_3
+                0x0000000000005612                __mspabi_sral_2
+                0x0000000000005616                __mspabi_sral_1
+                0x0000000000005622                __mspabi_sral
+ .text          0x0000000000005628        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-malloc.o)
+ .text.malloc   0x0000000000005628        0xc /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-malloc.o)
+                0x0000000000005628                malloc
+ .text.free     0x0000000000005634        0xc /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-malloc.o)
+                0x0000000000005634                free
+ .text          0x0000000000005640        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-nano-freer.o)
+ .text._free_r  0x0000000000005640      0x12a /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-nano-freer.o)
+                0x0000000000005640                _free_r
+ .text          0x000000000000576a        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-nano-mallocr.o)
+ .text._malloc_r
+                0x000000000000576a      0x13e /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-nano-mallocr.o)
+                0x000000000000576a                _malloc_r
+ .text          0x00000000000058a8        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-rand.o)
+ .text.srand    0x00000000000058a8       0x74 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-rand.o)
+                0x00000000000058a8                srand
+ .text.rand     0x000000000000591c       0xda /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-rand.o)
+                0x000000000000591c                rand
+ .text          0x00000000000059f6        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-sbrkr.o)
+ .text._sbrk_r  0x00000000000059f6       0x28 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-sbrkr.o)
+                0x00000000000059f6                _sbrk_r
+ .text          0x0000000000005a1e        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-impure.o)
+ .text          0x0000000000005a1e        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x0000000000005a1e       0x22 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-reent.o)
+                0x0000000000005a1e                cleanup_glue
+ .text._reclaim_reent
+                0x0000000000005a40      0x136 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-reent.o)
+                0x0000000000005a40                _reclaim_reent
+ .text          0x0000000000005b76        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libgcc.a(_muldi3.o)
+ .text.__muldi3
+                0x0000000000005b76      0x142 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libgcc.a(_muldi3.o)
+                0x0000000000005b76                __mspabi_mpyll
+ .text          0x0000000000005cb8        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libgcc.a(_lshrdi3.o)
+ .text.__lshrdi3
+                0x0000000000005cb8       0x92 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libgcc.a(_lshrdi3.o)
+                0x0000000000005cb8                __lshrdi3
+ .text          0x0000000000005d4a       0x74 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libgcc.a(slli.o)
+                0x0000000000005d4a                __mspabi_slli_15
+                0x0000000000005d4c                __mspabi_slli_14
+                0x0000000000005d4e                __mspabi_slli_13
+                0x0000000000005d50                __mspabi_slli_12
+                0x0000000000005d52                __mspabi_slli_11
+                0x0000000000005d54                __mspabi_slli_10
+                0x0000000000005d56                __mspabi_slli_9
+                0x0000000000005d58                __mspabi_slli_8
+                0x0000000000005d5a                __mspabi_slli_7
+                0x0000000000005d5c                __mspabi_slli_6
+                0x0000000000005d5e                __mspabi_slli_5
+                0x0000000000005d60                __mspabi_slli_4
+                0x0000000000005d62                __mspabi_slli_3
+                0x0000000000005d64                __mspabi_slli_2
+                0x0000000000005d66                __mspabi_slli_1
+                0x0000000000005d6e                __mspabi_slli
+                0x0000000000005d74                __mspabi_slll_15
+                0x0000000000005d78                __mspabi_slll_14
+                0x0000000000005d7c                __mspabi_slll_13
+                0x0000000000005d80                __mspabi_slll_12
+                0x0000000000005d84                __mspabi_slll_11
+                0x0000000000005d88                __mspabi_slll_10
+                0x0000000000005d8c                __mspabi_slll_9
+                0x0000000000005d90                __mspabi_slll_8
+                0x0000000000005d94                __mspabi_slll_7
+                0x0000000000005d98                __mspabi_slll_6
+                0x0000000000005d9c                __mspabi_slll_5
+                0x0000000000005da0                __mspabi_slll_4
+                0x0000000000005da4                __mspabi_slll_3
+                0x0000000000005da8                __mspabi_slll_2
+                0x0000000000005dac                __mspabi_slll_1
+                0x0000000000005db8                __mspabi_slll
+ .text          0x0000000000005dbe       0xb4 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libgcc.a(srli.o)
+                0x0000000000005dbe                __mspabi_srli_15
+                0x0000000000005dc2                __mspabi_srli_14
+                0x0000000000005dc6                __mspabi_srli_13
+                0x0000000000005dca                __mspabi_srli_12
+                0x0000000000005dce                __mspabi_srli_11
+                0x0000000000005dd2                __mspabi_srli_10
+                0x0000000000005dd6                __mspabi_srli_9
+                0x0000000000005dda                __mspabi_srli_8
+                0x0000000000005dde                __mspabi_srli_7
+                0x0000000000005de2                __mspabi_srli_6
+                0x0000000000005de6                __mspabi_srli_5
+                0x0000000000005dea                __mspabi_srli_4
+                0x0000000000005dee                __mspabi_srli_3
+                0x0000000000005df2                __mspabi_srli_2
+                0x0000000000005df6                __mspabi_srli_1
+                0x0000000000005e02                __mspabi_srli
+                0x0000000000005e08                __mspabi_srll_15
+                0x0000000000005e0e                __mspabi_srll_14
+                0x0000000000005e14                __mspabi_srll_13
+                0x0000000000005e1a                __mspabi_srll_12
+                0x0000000000005e20                __mspabi_srll_11
+                0x0000000000005e26                __mspabi_srll_10
+                0x0000000000005e2c                __mspabi_srll_9
+                0x0000000000005e32                __mspabi_srll_8
+                0x0000000000005e38                __mspabi_srll_7
+                0x0000000000005e3e                __mspabi_srll_6
+                0x0000000000005e44                __mspabi_srll_5
+                0x0000000000005e4a                __mspabi_srll_4
+                0x0000000000005e50                __mspabi_srll_3
+                0x0000000000005e56                __mspabi_srll_2
+                0x0000000000005e5c                __mspabi_srll_1
+                0x0000000000005e6c                __mspabi_srll
+ .text          0x0000000000005e72        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libmul_f5.a(lib2hw_mul_f5.o)
+ .text.__mulhi2_f5
+                0x0000000000005e72       0x16 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libmul_f5.a(lib2hw_mul_f5.o)
+                0x0000000000005e72                __mulhi2_f5
+                0x0000000000005e72                __mspabi_mpyi_f5hw
+                0x0000000000005e72                __mspabi_mpyi
+ .text.__mulsihi2
+                0x0000000000005e88       0x1a /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libmul_f5.a(lib2hw_mul_f5.o)
+                0x0000000000005e88                __mulsihi2
+                0x0000000000005e88                __mspabi_mpysl
+                0x0000000000005e88                __mspabi_mpysl_f5hw
+ .text.__umulsihi2
+                0x0000000000005ea2       0x1a /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libmul_f5.a(lib2hw_mul_f5.o)
+                0x0000000000005ea2                _mspabi_mpyul_f5hw
+                0x0000000000005ea2                __mspabi_mpyul
+                0x0000000000005ea2                __umulsihi2
+ .text.__mulsi2_f5
+                0x0000000000005ebc       0x22 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libmul_f5.a(lib2hw_mul_f5.o)
+                0x0000000000005ebc                __mspabi_mpyl
+                0x0000000000005ebc                __mspabi_mpyl_f5hw
+                0x0000000000005ebc                __mulsi2_f5
+ .text.__muldisi2
+                0x0000000000005ede       0x2a /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libmul_f5.a(lib2hw_mul_f5.o)
+                0x0000000000005ede                __mspabi_mpysll_f5hw
+                0x0000000000005ede                __muldisi2
+                0x0000000000005ede                __mspabi_mpysll
+ .text.__umuldisi2
+                0x0000000000005f08       0x2a /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libmul_f5.a(lib2hw_mul_f5.o)
+                0x0000000000005f08                __mspabi_mpyull_f5hw
+                0x0000000000005f08                __umuldisi2
+                0x0000000000005f08                __mspabi_mpyull
+ .text.__muldi3
+                0x0000000000005f32        0x4 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libmul_f5.a(lib2hw_mul_f5.o)
+                0x0000000000005f32                __mspabi_mpyll_f5hw
+                0x0000000000005f32                __muldi3
+ .text          0x0000000000005f36        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libcrt.a(crt_bss.o)
+ .text          0x0000000000005f36        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libcrt.a(crt_movedata.o)
+ .text          0x0000000000005f36        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libcrt.a(crt_main.o)
+ .text          0x0000000000005f36        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libnosys.a(sbrk.o)
+ .text._sbrk    0x0000000000005f36       0x3e /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libnosys.a(sbrk.o)
+                0x0000000000005f36                _sbrk
+                0x0000000000005f36                sbrk
+ .text          0x0000000000005f74        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libnosys.a(write.o)
+ .text.write    0x0000000000005f74       0x7e /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libnosys.a(write.o)
+                0x0000000000005f74                write
+ .text          0x0000000000005ff2        0x4 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libnosys.a(cio.o)
+                0x0000000000005ff2                C$$IO$$
+                0x0000000000005ff2                _libgloss_cio_hook
+ .text          0x0000000000005ff6        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-abort.o)
+ .text.abort    0x0000000000005ff6        0xe /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-abort.o)
+                0x0000000000005ff6                abort
+ .text          0x0000000000006004        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-memcpy.o)
+ .text.memcpy   0x0000000000006004       0x1e /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-memcpy.o)
+                0x0000000000006004                memcpy
+ .text          0x0000000000006022        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-memmove.o)
+ .text.memmove  0x0000000000006022       0x52 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-memmove.o)
+                0x0000000000006022                memmove
+ .text          0x0000000000006074        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-memset.o)
+ .text.memset   0x0000000000006074       0x1a /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-memset.o)
+                0x0000000000006074                memset
+ .text          0x000000000000608e        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-signal.o)
+ .text._init_signal_r
+                0x000000000000608e       0x42 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-signal.o)
+                0x000000000000608e                _init_signal_r
+ .text._signal_r
+                0x00000000000060d0       0x70 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-signal.o)
+                0x00000000000060d0                _signal_r
+ .text._raise_r
+                0x0000000000006140       0x98 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-signal.o)
+                0x0000000000006140                _raise_r
+ .text.__sigtramp_r
+                0x00000000000061d8       0x98 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-signal.o)
+                0x00000000000061d8                __sigtramp_r
+ .text.raise    0x0000000000006270        0xc /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-signal.o)
+                0x0000000000006270                raise
+ .text.signal   0x000000000000627c        0xe /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-signal.o)
+                0x000000000000627c                signal
+ .text._init_signal
+                0x000000000000628a        0xa /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-signal.o)
+                0x000000000000628a                _init_signal
+ .text.__sigtramp
+                0x0000000000006294        0xc /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-signal.o)
+                0x0000000000006294                __sigtramp
+ .text          0x00000000000062a0        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-signalr.o)
+ .text._kill_r  0x00000000000062a0       0x28 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-signalr.o)
+                0x00000000000062a0                _kill_r
+ .text._getpid_r
+                0x00000000000062c8        0x6 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-signalr.o)
+                0x00000000000062c8                _getpid_r
+ .text          0x00000000000062ce        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libnosys.a(ciosyscalls.o)
+ .text.exit     0x00000000000062ce        0x4 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libnosys.a(ciosyscalls.o)
+                0x00000000000062ce                exit
+                0x00000000000062ce                _exit
+ .text.isatty   0x00000000000062d2        0x4 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libnosys.a(ciosyscalls.o)
+                0x00000000000062d2                isatty
+                0x00000000000062d2                _isatty
+ .text.getpid   0x00000000000062d6        0x6 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libnosys.a(ciosyscalls.o)
+                0x00000000000062d6                getpid
+ .text.open     0x00000000000062dc       0x10 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libnosys.a(ciosyscalls.o)
+                0x00000000000062dc                open
+ .text.close    0x00000000000062ec       0x10 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libnosys.a(ciosyscalls.o)
+                0x00000000000062ec                close
+ .text.read     0x00000000000062fc       0x10 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libnosys.a(ciosyscalls.o)
+                0x00000000000062fc                read
+ .text.fstat    0x000000000000630c       0x10 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libnosys.a(ciosyscalls.o)
+                0x000000000000630c                fstat
+ .text.lseek    0x000000000000631c       0x10 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libnosys.a(ciosyscalls.o)
+                0x000000000000631c                lseek
+ .text.kill     0x000000000000632c       0x10 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libnosys.a(ciosyscalls.o)
+                0x000000000000632c                kill
+ .text          0x000000000000633c        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-errno.o)
+ .text.__errno  0x000000000000633c        0x6 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-errno.o)
+                0x000000000000633c                __errno
+ .text          0x0000000000006342        0x2 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/crtend.o
+ .text.__do_global_ctors_aux
+                0x0000000000006344       0x1c /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/crtend.o
+ .text.call___do_global_ctors_aux
+                0x0000000000006360        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/crtend.o
+ .text          0x0000000000006360        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/crtn.o
+ *(.text.*personality*)
+ *(.gnu.warning)
+ *(.interp .hash .dynsym .dynstr .gnu.version*)
+                [!provide]                        PROVIDE (__etext, .)
+                [!provide]                        PROVIDE (_etext, .)
+                [!provide]                        PROVIDE (etext, .)
+                0x0000000000006360                . = ALIGN (0x2)
+ *(.init)
+ .init          0x0000000000006360        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/crt0.o
+                0x0000000000006360                __msp430_init
+ .init          0x0000000000006360        0x4 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/crtbegin.o
+ .init          0x0000000000006364        0x4 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/crtend.o
+ .init          0x0000000000006368        0xa /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/crtn.o
+                0x0000000000006372                __msp430_init_end
+ *(.fini)
+ .fini          0x0000000000006372        0x4 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/crt0.o
+                0x0000000000006372                __msp430_fini
+ .fini          0x0000000000006376        0x4 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/crtbegin.o
+ .fini          0x000000000000637a        0x2 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/crtn.o
+                0x000000000000637c                __msp430_fini_end
+ *(.tm_clone_table)
+ .tm_clone_table
+                0x000000000000637c        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/crtbegin.o
+ .tm_clone_table
+                0x000000000000637c        0x0 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/crtend.o
+                0x000000000000637c                __TMC_END__
+
+.upper.text     0x0000000000010002        0x0
+                0x0000000000010002                . = ALIGN (0x2)
+ *(.upper.text.* .upper.text)
+
+.infoA
+
+.infoB
+
+.infoC
+
+.infoD
+
+.MSP430.attributes
+                0x0000000000000000       0x17
+ *(.MSP430.attributes)
+ .MSP430.attributes
+                0x0000000000000000       0x17 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/crt0.o
+ .MSP430.attributes
+                0x0000000000000017       0x17 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/crtbegin.o
+ .MSP430.attributes
+                0x000000000000002e       0x17 ./app.o
+ .MSP430.attributes
+                0x0000000000000045       0x17 ./frame/frame.o
+ .MSP430.attributes
+                0x000000000000005c       0x17 ./frame/frameValidation.o
+ .MSP430.attributes
+                0x0000000000000073       0x17 ./mac/mac.o
+ .MSP430.attributes
+                0x000000000000008a       0x17 ./phy/radio.o
+ .MSP430.attributes
+                0x00000000000000a1       0x17 ./phy/rx.o
+ .MSP430.attributes
+                0x00000000000000b8       0x17 ./phy/timers.o
+ .MSP430.attributes
+                0x00000000000000cf       0x17 ./phy/tx.o
+ .MSP430.attributes
+                0x00000000000000e6       0x17 ./sys/buffers.o
+ .MSP430.attributes
+                0x00000000000000fd       0x17 ./sys/debug.o
+ .MSP430.attributes
+                0x0000000000000114       0x17 ./sys/node.o
+ .MSP430.attributes
+                0x000000000000012b       0x17 ./sys/peripherals.o
+ .MSP430.attributes
+                0x0000000000000142       0x17 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libgcc.a(lib2divHI.o)
+ .MSP430.attributes
+                0x0000000000000159       0x17 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libgcc.a(srai.o)
+ .MSP430.attributes
+                0x0000000000000170       0x17 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-malloc.o)
+ .MSP430.attributes
+                0x0000000000000187       0x17 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-nano-freer.o)
+ .MSP430.attributes
+                0x000000000000019e       0x17 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-nano-mallocr.o)
+ .MSP430.attributes
+                0x00000000000001b5       0x17 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-rand.o)
+ .MSP430.attributes
+                0x00000000000001cc       0x17 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-sbrkr.o)
+ .MSP430.attributes
+                0x00000000000001e3       0x17 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-impure.o)
+ .MSP430.attributes
+                0x00000000000001fa       0x17 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-reent.o)
+ .MSP430.attributes
+                0x0000000000000211       0x17 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libgcc.a(_muldi3.o)
+ .MSP430.attributes
+                0x0000000000000228       0x17 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libgcc.a(_lshrdi3.o)
+ .MSP430.attributes
+                0x000000000000023f       0x17 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libgcc.a(slli.o)
+ .MSP430.attributes
+                0x0000000000000256       0x17 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libgcc.a(srli.o)
+ .MSP430.attributes
+                0x000000000000026d       0x17 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libmul_f5.a(lib2hw_mul_f5.o)
+ .MSP430.attributes
+                0x0000000000000284       0x17 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libcrt.a(crt_bss.o)
+ .MSP430.attributes
+                0x000000000000029b       0x17 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libcrt.a(crt_movedata.o)
+ .MSP430.attributes
+                0x00000000000002b2       0x17 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libcrt.a(crt_main.o)
+ .MSP430.attributes
+                0x00000000000002c9       0x17 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libnosys.a(sbrk.o)
+ .MSP430.attributes
+                0x00000000000002e0       0x17 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libnosys.a(write.o)
+ .MSP430.attributes
+                0x00000000000002f7       0x17 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libnosys.a(cio.o)
+ .MSP430.attributes
+                0x000000000000030e       0x17 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-abort.o)
+ .MSP430.attributes
+                0x0000000000000325       0x17 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-memcpy.o)
+ .MSP430.attributes
+                0x000000000000033c       0x17 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-memmove.o)
+ .MSP430.attributes
+                0x0000000000000353       0x17 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-memset.o)
+ .MSP430.attributes
+                0x000000000000036a       0x17 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-signal.o)
+ .MSP430.attributes
+                0x0000000000000381       0x17 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-signalr.o)
+ .MSP430.attributes
+                0x0000000000000398       0x17 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libnosys.a(ciosyscalls.o)
+ .MSP430.attributes
+                0x00000000000003af       0x17 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-errno.o)
+ .MSP430.attributes
+                0x00000000000003c6       0x17 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/crtend.o
+ .MSP430.attributes
+                0x00000000000003dd       0x17 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/crtn.o
+ *(.gnu.attributes)
+ *(__TI_build_attributes)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x49
+ *(.comment)
+ .comment       0x0000000000000000       0x49 /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/crtbegin.o
+                                         0x4a (size before relaxing)
+ .comment       0x0000000000000049       0x4a ./app.o
+ .comment       0x0000000000000049       0x4a ./frame/frame.o
+ .comment       0x0000000000000049       0x4a ./frame/frameValidation.o
+ .comment       0x0000000000000049       0x4a ./mac/mac.o
+ .comment       0x0000000000000049       0x4a ./phy/radio.o
+ .comment       0x0000000000000049       0x4a ./phy/rx.o
+ .comment       0x0000000000000049       0x4a ./phy/timers.o
+ .comment       0x0000000000000049       0x4a ./phy/tx.o
+ .comment       0x0000000000000049       0x4a ./sys/buffers.o
+ .comment       0x0000000000000049       0x4a ./sys/debug.o
+ .comment       0x0000000000000049       0x4a ./sys/node.o
+ .comment       0x0000000000000049       0x4a ./sys/peripherals.o
+ .comment       0x0000000000000049       0x4a /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libgcc.a(lib2divHI.o)
+ .comment       0x0000000000000049       0x4a /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-malloc.o)
+ .comment       0x0000000000000049       0x4a /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-nano-freer.o)
+ .comment       0x0000000000000049       0x4a /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-nano-mallocr.o)
+ .comment       0x0000000000000049       0x4a /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-rand.o)
+ .comment       0x0000000000000049       0x4a /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-sbrkr.o)
+ .comment       0x0000000000000049       0x4a /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-impure.o)
+ .comment       0x0000000000000049       0x4a /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-reent.o)
+ .comment       0x0000000000000049       0x4a /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libgcc.a(_muldi3.o)
+ .comment       0x0000000000000049       0x4a /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/libgcc.a(_lshrdi3.o)
+ .comment       0x0000000000000049       0x4a /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libnosys.a(sbrk.o)
+ .comment       0x0000000000000049       0x4a /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libnosys.a(write.o)
+ .comment       0x0000000000000049       0x4a /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-abort.o)
+ .comment       0x0000000000000049       0x4a /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-memcpy.o)
+ .comment       0x0000000000000049       0x4a /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-memmove.o)
+ .comment       0x0000000000000049       0x4a /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-memset.o)
+ .comment       0x0000000000000049       0x4a /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-signal.o)
+ .comment       0x0000000000000049       0x4a /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-signalr.o)
+ .comment       0x0000000000000049       0x4a /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/../../../../msp430-elf/lib/large/libc.a(lib_a-errno.o)
+ .comment       0x0000000000000049       0x4a /Applications/ti/ccsv7/tools/compiler/msp430-gcc-6.2.1.16_osx/bin/../lib/gcc/msp430-elf/6.2.1/large/crtend.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x1a0
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x20 ./app.o
+ .debug_aranges
+                0x0000000000000020       0x20 ./frame/frame.o
+ .debug_aranges
+                0x0000000000000040       0x20 ./frame/frameValidation.o
+ .debug_aranges
+                0x0000000000000060       0x20 ./mac/mac.o
+ .debug_aranges
+                0x0000000000000080       0x20 ./phy/radio.o
+ .debug_aranges
+                0x00000000000000a0       0x28 ./phy/rx.o
+ .debug_aranges
+                0x00000000000000c8       0x38 ./phy/timers.o
+ .debug_aranges
+                0x0000000000000100       0x20 ./phy/tx.o
+ .debug_aranges
+                0x0000000000000120       0x20 ./sys/buffers.o
+ .debug_aranges
+                0x0000000000000140       0x20 ./sys/debug.o
+ .debug_aranges
+                0x0000000000000160       0x20 ./sys/node.o
+ .debug_aranges
+                0x0000000000000180       0x20 ./sys/peripherals.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000    0x23736
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000     0x3672 ./app.o
+ .debug_info    0x0000000000003672     0x3701 ./frame/frame.o
+ .debug_info    0x0000000000006d73     0x3835 ./frame/frameValidation.o
+ .debug_info    0x000000000000a5a8     0x369a ./mac/mac.o
+ .debug_info    0x000000000000dc42     0x2c38 ./phy/radio.o
+ .debug_info    0x000000000001087a     0x369a ./phy/rx.o
+ .debug_info    0x0000000000013f14     0x2d40 ./phy/timers.o
+ .debug_info    0x0000000000016c54     0x36b3 ./phy/tx.o
+ .debug_info    0x000000000001a307     0x3868 ./sys/buffers.o
+ .debug_info    0x000000000001db6f     0x2e3c ./sys/debug.o
+ .debug_info    0x00000000000209ab       0xd7 ./sys/node.o
+ .debug_info    0x0000000000020a82     0x2cb4 ./sys/peripherals.o
+
+.debug_abbrev   0x0000000000000000     0x1374
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x1c0 ./app.o
+ .debug_abbrev  0x00000000000001c0      0x274 ./frame/frame.o
+ .debug_abbrev  0x0000000000000434      0x28e ./frame/frameValidation.o
+ .debug_abbrev  0x00000000000006c2      0x259 ./mac/mac.o
+ .debug_abbrev  0x000000000000091b       0x9f ./phy/radio.o
+ .debug_abbrev  0x00000000000009ba      0x1da ./phy/rx.o
+ .debug_abbrev  0x0000000000000b94      0x103 ./phy/timers.o
+ .debug_abbrev  0x0000000000000c97      0x223 ./phy/tx.o
+ .debug_abbrev  0x0000000000000eba      0x26d ./sys/buffers.o
+ .debug_abbrev  0x0000000000001127       0xd5 ./sys/debug.o
+ .debug_abbrev  0x00000000000011fc       0x7f ./sys/node.o
+ .debug_abbrev  0x000000000000127b       0xf9 ./sys/peripherals.o
+
+.debug_line     0x0000000000000000     0x2a99
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0x46d ./app.o
+ .debug_line    0x000000000000046d      0x3c0 ./frame/frame.o
+ .debug_line    0x000000000000082d      0x4c1 ./frame/frameValidation.o
+ .debug_line    0x0000000000000cee      0x4f2 ./mac/mac.o
+ .debug_line    0x00000000000011e0      0x16c ./phy/radio.o
+ .debug_line    0x000000000000134c      0x4de ./phy/rx.o
+ .debug_line    0x000000000000182a      0x2c5 ./phy/timers.o
+ .debug_line    0x0000000000001aef      0x477 ./phy/tx.o
+ .debug_line    0x0000000000001f66      0x422 ./sys/buffers.o
+ .debug_line    0x0000000000002388      0x39d ./sys/debug.o
+ .debug_line    0x0000000000002725      0x125 ./sys/node.o
+ .debug_line    0x000000000000284a      0x24f ./sys/peripherals.o
+
+.debug_frame    0x0000000000000000      0x8ac
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000       0x50 ./app.o
+ .debug_frame   0x0000000000000050       0xb4 ./frame/frame.o
+ .debug_frame   0x0000000000000104       0xc4 ./frame/frameValidation.o
+ .debug_frame   0x00000000000001c8       0x98 ./mac/mac.o
+ .debug_frame   0x0000000000000260       0x74 ./phy/radio.o
+ .debug_frame   0x00000000000002d4       0xa0 ./phy/rx.o
+ .debug_frame   0x0000000000000374       0x98 ./phy/timers.o
+ .debug_frame   0x000000000000040c       0xe0 ./phy/tx.o
+ .debug_frame   0x00000000000004ec      0x12c ./sys/buffers.o
+ .debug_frame   0x0000000000000618      0x1dc ./sys/debug.o
+ .debug_frame   0x00000000000007f4       0x34 ./sys/node.o
+ .debug_frame   0x0000000000000828       0x84 ./sys/peripherals.o
+
+.debug_str      0x0000000000000000     0x2cdd
+ *(.debug_str)
+ .debug_str     0x0000000000000000     0x2531 ./app.o
+                                       0x25d9 (size before relaxing)
+ .debug_str     0x0000000000002531       0xc2 ./frame/frame.o
+                                       0x25f6 (size before relaxing)
+ .debug_str     0x00000000000025f3      0x17c ./frame/frameValidation.o
+                                       0x270b (size before relaxing)
+ .debug_str     0x000000000000276f       0x6f ./mac/mac.o
+                                       0x25e9 (size before relaxing)
+ .debug_str     0x00000000000027de       0x77 ./phy/radio.o
+                                       0x2040 (size before relaxing)
+ .debug_str     0x0000000000002855       0xab ./phy/rx.o
+                                       0x25fb (size before relaxing)
+ .debug_str     0x0000000000002900       0x85 ./phy/timers.o
+                                       0x20ca (size before relaxing)
+ .debug_str     0x0000000000002985       0x9c ./phy/tx.o
+                                       0x260e (size before relaxing)
+ .debug_str     0x0000000000002a21       0xd4 ./sys/buffers.o
+                                       0x2650 (size before relaxing)
+ .debug_str     0x0000000000002af5      0x149 ./sys/debug.o
+                                       0x21c7 (size before relaxing)
+ .debug_str     0x0000000000002c3e       0x26 ./sys/node.o
+                                        0x1a6 (size before relaxing)
+ .debug_str     0x0000000000002c64       0x79 ./sys/peripherals.o
+                                       0x20aa (size before relaxing)
+
+.debug_loc      0x0000000000000000      0x4a5
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000       0x7d ./frame/frame.o
+ .debug_loc     0x000000000000007d       0xb9 ./frame/frameValidation.o
+ .debug_loc     0x0000000000000136       0x31 ./mac/mac.o
+ .debug_loc     0x0000000000000167       0xa7 ./phy/timers.o
+ .debug_loc     0x000000000000020e       0x6d ./phy/tx.o
+ .debug_loc     0x000000000000027b      0x217 ./sys/buffers.o
+ .debug_loc     0x0000000000000492       0x13 ./sys/peripherals.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000       0x70
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000       0x30 ./mac/mac.o
+ .debug_ranges  0x0000000000000030       0x18 ./phy/rx.o
+ .debug_ranges  0x0000000000000048       0x28 ./phy/timers.o
+
+.debug_macro
+ *(.debug_macro)
+
+/DISCARD/
+ *(.note.GNU-stack)
+                [!provide]                        PROVIDE (ADC12CTL0, 0x800)
+                [!provide]                        PROVIDE (ADC12CTL0_L, 0x800)
+                [!provide]                        PROVIDE (ADC12CTL0_H, 0x801)
+                [!provide]                        PROVIDE (ADC12CTL1, 0x802)
+                [!provide]                        PROVIDE (ADC12CTL1_L, 0x802)
+                [!provide]                        PROVIDE (ADC12CTL1_H, 0x803)
+                [!provide]                        PROVIDE (ADC12CTL2, 0x804)
+                [!provide]                        PROVIDE (ADC12CTL2_L, 0x804)
+                [!provide]                        PROVIDE (ADC12CTL2_H, 0x805)
+                [!provide]                        PROVIDE (ADC12CTL3, 0x806)
+                [!provide]                        PROVIDE (ADC12CTL3_L, 0x806)
+                [!provide]                        PROVIDE (ADC12CTL3_H, 0x807)
+                [!provide]                        PROVIDE (ADC12LO, 0x808)
+                [!provide]                        PROVIDE (ADC12LO_L, 0x808)
+                [!provide]                        PROVIDE (ADC12LO_H, 0x809)
+                [!provide]                        PROVIDE (ADC12HI, 0x80a)
+                [!provide]                        PROVIDE (ADC12HI_L, 0x80a)
+                [!provide]                        PROVIDE (ADC12HI_H, 0x80b)
+                [!provide]                        PROVIDE (ADC12IFGR0, 0x80c)
+                [!provide]                        PROVIDE (ADC12IFGR0_L, 0x80c)
+                [!provide]                        PROVIDE (ADC12IFGR0_H, 0x80d)
+                [!provide]                        PROVIDE (ADC12IFGR1, 0x80e)
+                [!provide]                        PROVIDE (ADC12IFGR1_L, 0x80e)
+                [!provide]                        PROVIDE (ADC12IFGR1_H, 0x80f)
+                [!provide]                        PROVIDE (ADC12IFGR2, 0x810)
+                [!provide]                        PROVIDE (ADC12IFGR2_L, 0x810)
+                [!provide]                        PROVIDE (ADC12IFGR2_H, 0x811)
+                [!provide]                        PROVIDE (ADC12IER0, 0x812)
+                [!provide]                        PROVIDE (ADC12IER0_L, 0x812)
+                [!provide]                        PROVIDE (ADC12IER0_H, 0x813)
+                [!provide]                        PROVIDE (ADC12IER1, 0x814)
+                [!provide]                        PROVIDE (ADC12IER1_L, 0x814)
+                [!provide]                        PROVIDE (ADC12IER1_H, 0x815)
+                [!provide]                        PROVIDE (ADC12IER2, 0x816)
+                [!provide]                        PROVIDE (ADC12IER2_L, 0x816)
+                [!provide]                        PROVIDE (ADC12IER2_H, 0x817)
+                [!provide]                        PROVIDE (ADC12IV, 0x818)
+                [!provide]                        PROVIDE (ADC12IV_L, 0x818)
+                [!provide]                        PROVIDE (ADC12IV_H, 0x819)
+                [!provide]                        PROVIDE (ADC12MCTL0, 0x820)
+                [!provide]                        PROVIDE (ADC12MCTL0_L, 0x820)
+                [!provide]                        PROVIDE (ADC12MCTL0_H, 0x821)
+                [!provide]                        PROVIDE (ADC12MCTL1, 0x822)
+                [!provide]                        PROVIDE (ADC12MCTL1_L, 0x822)
+                [!provide]                        PROVIDE (ADC12MCTL1_H, 0x823)
+                [!provide]                        PROVIDE (ADC12MCTL2, 0x824)
+                [!provide]                        PROVIDE (ADC12MCTL2_L, 0x824)
+                [!provide]                        PROVIDE (ADC12MCTL2_H, 0x825)
+                [!provide]                        PROVIDE (ADC12MCTL3, 0x826)
+                [!provide]                        PROVIDE (ADC12MCTL3_L, 0x826)
+                [!provide]                        PROVIDE (ADC12MCTL3_H, 0x827)
+                [!provide]                        PROVIDE (ADC12MCTL4, 0x828)
+                [!provide]                        PROVIDE (ADC12MCTL4_L, 0x828)
+                [!provide]                        PROVIDE (ADC12MCTL4_H, 0x829)
+                [!provide]                        PROVIDE (ADC12MCTL5, 0x82a)
+                [!provide]                        PROVIDE (ADC12MCTL5_L, 0x82a)
+                [!provide]                        PROVIDE (ADC12MCTL5_H, 0x82b)
+                [!provide]                        PROVIDE (ADC12MCTL6, 0x82c)
+                [!provide]                        PROVIDE (ADC12MCTL6_L, 0x82c)
+                [!provide]                        PROVIDE (ADC12MCTL6_H, 0x82d)
+                [!provide]                        PROVIDE (ADC12MCTL7, 0x82e)
+                [!provide]                        PROVIDE (ADC12MCTL7_L, 0x82e)
+                [!provide]                        PROVIDE (ADC12MCTL7_H, 0x82f)
+                [!provide]                        PROVIDE (ADC12MCTL8, 0x830)
+                [!provide]                        PROVIDE (ADC12MCTL8_L, 0x830)
+                [!provide]                        PROVIDE (ADC12MCTL8_H, 0x831)
+                [!provide]                        PROVIDE (ADC12MCTL9, 0x832)
+                [!provide]                        PROVIDE (ADC12MCTL9_L, 0x832)
+                [!provide]                        PROVIDE (ADC12MCTL9_H, 0x833)
+                [!provide]                        PROVIDE (ADC12MCTL10, 0x834)
+                [!provide]                        PROVIDE (ADC12MCTL10_L, 0x834)
+                [!provide]                        PROVIDE (ADC12MCTL10_H, 0x835)
+                [!provide]                        PROVIDE (ADC12MCTL11, 0x836)
+                [!provide]                        PROVIDE (ADC12MCTL11_L, 0x836)
+                [!provide]                        PROVIDE (ADC12MCTL11_H, 0x837)
+                [!provide]                        PROVIDE (ADC12MCTL12, 0x838)
+                [!provide]                        PROVIDE (ADC12MCTL12_L, 0x838)
+                [!provide]                        PROVIDE (ADC12MCTL12_H, 0x839)
+                [!provide]                        PROVIDE (ADC12MCTL13, 0x83a)
+                [!provide]                        PROVIDE (ADC12MCTL13_L, 0x83a)
+                [!provide]                        PROVIDE (ADC12MCTL13_H, 0x83b)
+                [!provide]                        PROVIDE (ADC12MCTL14, 0x83c)
+                [!provide]                        PROVIDE (ADC12MCTL14_L, 0x83c)
+                [!provide]                        PROVIDE (ADC12MCTL14_H, 0x83d)
+                [!provide]                        PROVIDE (ADC12MCTL15, 0x83e)
+                [!provide]                        PROVIDE (ADC12MCTL15_L, 0x83e)
+                [!provide]                        PROVIDE (ADC12MCTL15_H, 0x83f)
+                [!provide]                        PROVIDE (ADC12MCTL16, 0x840)
+                [!provide]                        PROVIDE (ADC12MCTL16_L, 0x840)
+                [!provide]                        PROVIDE (ADC12MCTL16_H, 0x841)
+                [!provide]                        PROVIDE (ADC12MCTL17, 0x842)
+                [!provide]                        PROVIDE (ADC12MCTL17_L, 0x842)
+                [!provide]                        PROVIDE (ADC12MCTL17_H, 0x843)
+                [!provide]                        PROVIDE (ADC12MCTL18, 0x844)
+                [!provide]                        PROVIDE (ADC12MCTL18_L, 0x844)
+                [!provide]                        PROVIDE (ADC12MCTL18_H, 0x845)
+                [!provide]                        PROVIDE (ADC12MCTL19, 0x846)
+                [!provide]                        PROVIDE (ADC12MCTL19_L, 0x846)
+                [!provide]                        PROVIDE (ADC12MCTL19_H, 0x847)
+                [!provide]                        PROVIDE (ADC12MCTL20, 0x848)
+                [!provide]                        PROVIDE (ADC12MCTL20_L, 0x848)
+                [!provide]                        PROVIDE (ADC12MCTL20_H, 0x849)
+                [!provide]                        PROVIDE (ADC12MCTL21, 0x84a)
+                [!provide]                        PROVIDE (ADC12MCTL21_L, 0x84a)
+                [!provide]                        PROVIDE (ADC12MCTL21_H, 0x84b)
+                [!provide]                        PROVIDE (ADC12MCTL22, 0x84c)
+                [!provide]                        PROVIDE (ADC12MCTL22_L, 0x84c)
+                [!provide]                        PROVIDE (ADC12MCTL22_H, 0x84d)
+                [!provide]                        PROVIDE (ADC12MCTL23, 0x84e)
+                [!provide]                        PROVIDE (ADC12MCTL23_L, 0x84e)
+                [!provide]                        PROVIDE (ADC12MCTL23_H, 0x84f)
+                [!provide]                        PROVIDE (ADC12MCTL24, 0x850)
+                [!provide]                        PROVIDE (ADC12MCTL24_L, 0x850)
+                [!provide]                        PROVIDE (ADC12MCTL24_H, 0x851)
+                [!provide]                        PROVIDE (ADC12MCTL25, 0x852)
+                [!provide]                        PROVIDE (ADC12MCTL25_L, 0x852)
+                [!provide]                        PROVIDE (ADC12MCTL25_H, 0x853)
+                [!provide]                        PROVIDE (ADC12MCTL26, 0x854)
+                [!provide]                        PROVIDE (ADC12MCTL26_L, 0x854)
+                [!provide]                        PROVIDE (ADC12MCTL26_H, 0x855)
+                [!provide]                        PROVIDE (ADC12MCTL27, 0x856)
+                [!provide]                        PROVIDE (ADC12MCTL27_L, 0x856)
+                [!provide]                        PROVIDE (ADC12MCTL27_H, 0x857)
+                [!provide]                        PROVIDE (ADC12MCTL28, 0x858)
+                [!provide]                        PROVIDE (ADC12MCTL28_L, 0x858)
+                [!provide]                        PROVIDE (ADC12MCTL28_H, 0x859)
+                [!provide]                        PROVIDE (ADC12MCTL29, 0x85a)
+                [!provide]                        PROVIDE (ADC12MCTL29_L, 0x85a)
+                [!provide]                        PROVIDE (ADC12MCTL29_H, 0x85b)
+                [!provide]                        PROVIDE (ADC12MCTL30, 0x85c)
+                [!provide]                        PROVIDE (ADC12MCTL30_L, 0x85c)
+                [!provide]                        PROVIDE (ADC12MCTL30_H, 0x85d)
+                [!provide]                        PROVIDE (ADC12MCTL31, 0x85e)
+                [!provide]                        PROVIDE (ADC12MCTL31_L, 0x85e)
+                [!provide]                        PROVIDE (ADC12MCTL31_H, 0x85f)
+                [!provide]                        PROVIDE (ADC12MEM0, 0x860)
+                [!provide]                        PROVIDE (ADC12MEM0_L, 0x860)
+                [!provide]                        PROVIDE (ADC12MEM0_H, 0x861)
+                [!provide]                        PROVIDE (ADC12MEM1, 0x862)
+                [!provide]                        PROVIDE (ADC12MEM1_L, 0x862)
+                [!provide]                        PROVIDE (ADC12MEM1_H, 0x863)
+                [!provide]                        PROVIDE (ADC12MEM2, 0x864)
+                [!provide]                        PROVIDE (ADC12MEM2_L, 0x864)
+                [!provide]                        PROVIDE (ADC12MEM2_H, 0x865)
+                [!provide]                        PROVIDE (ADC12MEM3, 0x866)
+                [!provide]                        PROVIDE (ADC12MEM3_L, 0x866)
+                [!provide]                        PROVIDE (ADC12MEM3_H, 0x867)
+                [!provide]                        PROVIDE (ADC12MEM4, 0x868)
+                [!provide]                        PROVIDE (ADC12MEM4_L, 0x868)
+                [!provide]                        PROVIDE (ADC12MEM4_H, 0x869)
+                [!provide]                        PROVIDE (ADC12MEM5, 0x86a)
+                [!provide]                        PROVIDE (ADC12MEM5_L, 0x86a)
+                [!provide]                        PROVIDE (ADC12MEM5_H, 0x86b)
+                [!provide]                        PROVIDE (ADC12MEM6, 0x86c)
+                [!provide]                        PROVIDE (ADC12MEM6_L, 0x86c)
+                [!provide]                        PROVIDE (ADC12MEM6_H, 0x86d)
+                [!provide]                        PROVIDE (ADC12MEM7, 0x86e)
+                [!provide]                        PROVIDE (ADC12MEM7_L, 0x86e)
+                [!provide]                        PROVIDE (ADC12MEM7_H, 0x86f)
+                [!provide]                        PROVIDE (ADC12MEM8, 0x870)
+                [!provide]                        PROVIDE (ADC12MEM8_L, 0x870)
+                [!provide]                        PROVIDE (ADC12MEM8_H, 0x871)
+                [!provide]                        PROVIDE (ADC12MEM9, 0x872)
+                [!provide]                        PROVIDE (ADC12MEM9_L, 0x872)
+                [!provide]                        PROVIDE (ADC12MEM9_H, 0x873)
+                [!provide]                        PROVIDE (ADC12MEM10, 0x874)
+                [!provide]                        PROVIDE (ADC12MEM10_L, 0x874)
+                [!provide]                        PROVIDE (ADC12MEM10_H, 0x875)
+                [!provide]                        PROVIDE (ADC12MEM11, 0x876)
+                [!provide]                        PROVIDE (ADC12MEM11_L, 0x876)
+                [!provide]                        PROVIDE (ADC12MEM11_H, 0x877)
+                [!provide]                        PROVIDE (ADC12MEM12, 0x878)
+                [!provide]                        PROVIDE (ADC12MEM12_L, 0x878)
+                [!provide]                        PROVIDE (ADC12MEM12_H, 0x879)
+                [!provide]                        PROVIDE (ADC12MEM13, 0x87a)
+                [!provide]                        PROVIDE (ADC12MEM13_L, 0x87a)
+                [!provide]                        PROVIDE (ADC12MEM13_H, 0x87b)
+                [!provide]                        PROVIDE (ADC12MEM14, 0x87c)
+                [!provide]                        PROVIDE (ADC12MEM14_L, 0x87c)
+                [!provide]                        PROVIDE (ADC12MEM14_H, 0x87d)
+                [!provide]                        PROVIDE (ADC12MEM15, 0x87e)
+                [!provide]                        PROVIDE (ADC12MEM15_L, 0x87e)
+                [!provide]                        PROVIDE (ADC12MEM15_H, 0x87f)
+                [!provide]                        PROVIDE (ADC12MEM16, 0x880)
+                [!provide]                        PROVIDE (ADC12MEM16_L, 0x880)
+                [!provide]                        PROVIDE (ADC12MEM16_H, 0x881)
+                [!provide]                        PROVIDE (ADC12MEM17, 0x882)
+                [!provide]                        PROVIDE (ADC12MEM17_L, 0x882)
+                [!provide]                        PROVIDE (ADC12MEM17_H, 0x883)
+                [!provide]                        PROVIDE (ADC12MEM18, 0x884)
+                [!provide]                        PROVIDE (ADC12MEM18_L, 0x884)
+                [!provide]                        PROVIDE (ADC12MEM18_H, 0x885)
+                [!provide]                        PROVIDE (ADC12MEM19, 0x886)
+                [!provide]                        PROVIDE (ADC12MEM19_L, 0x886)
+                [!provide]                        PROVIDE (ADC12MEM19_H, 0x887)
+                [!provide]                        PROVIDE (ADC12MEM20, 0x888)
+                [!provide]                        PROVIDE (ADC12MEM20_L, 0x888)
+                [!provide]                        PROVIDE (ADC12MEM20_H, 0x889)
+                [!provide]                        PROVIDE (ADC12MEM21, 0x88a)
+                [!provide]                        PROVIDE (ADC12MEM21_L, 0x88a)
+                [!provide]                        PROVIDE (ADC12MEM21_H, 0x88b)
+                [!provide]                        PROVIDE (ADC12MEM22, 0x88c)
+                [!provide]                        PROVIDE (ADC12MEM22_L, 0x88c)
+                [!provide]                        PROVIDE (ADC12MEM22_H, 0x88d)
+                [!provide]                        PROVIDE (ADC12MEM23, 0x88e)
+                [!provide]                        PROVIDE (ADC12MEM23_L, 0x88e)
+                [!provide]                        PROVIDE (ADC12MEM23_H, 0x88f)
+                [!provide]                        PROVIDE (ADC12MEM24, 0x890)
+                [!provide]                        PROVIDE (ADC12MEM24_L, 0x890)
+                [!provide]                        PROVIDE (ADC12MEM24_H, 0x891)
+                [!provide]                        PROVIDE (ADC12MEM25, 0x892)
+                [!provide]                        PROVIDE (ADC12MEM25_L, 0x892)
+                [!provide]                        PROVIDE (ADC12MEM25_H, 0x893)
+                [!provide]                        PROVIDE (ADC12MEM26, 0x894)
+                [!provide]                        PROVIDE (ADC12MEM26_L, 0x894)
+                [!provide]                        PROVIDE (ADC12MEM26_H, 0x895)
+                [!provide]                        PROVIDE (ADC12MEM27, 0x896)
+                [!provide]                        PROVIDE (ADC12MEM27_L, 0x896)
+                [!provide]                        PROVIDE (ADC12MEM27_H, 0x897)
+                [!provide]                        PROVIDE (ADC12MEM28, 0x898)
+                [!provide]                        PROVIDE (ADC12MEM28_L, 0x898)
+                [!provide]                        PROVIDE (ADC12MEM28_H, 0x899)
+                [!provide]                        PROVIDE (ADC12MEM29, 0x89a)
+                [!provide]                        PROVIDE (ADC12MEM29_L, 0x89a)
+                [!provide]                        PROVIDE (ADC12MEM29_H, 0x89b)
+                [!provide]                        PROVIDE (ADC12MEM30, 0x89c)
+                [!provide]                        PROVIDE (ADC12MEM30_L, 0x89c)
+                [!provide]                        PROVIDE (ADC12MEM30_H, 0x89d)
+                [!provide]                        PROVIDE (ADC12MEM31, 0x89e)
+                [!provide]                        PROVIDE (ADC12MEM31_L, 0x89e)
+                [!provide]                        PROVIDE (ADC12MEM31_H, 0x89f)
+                [!provide]                        PROVIDE (AESACTL0, 0x9c0)
+                [!provide]                        PROVIDE (AESACTL0_L, 0x9c0)
+                [!provide]                        PROVIDE (AESACTL0_H, 0x9c1)
+                [!provide]                        PROVIDE (AESACTL1, 0x9c2)
+                [!provide]                        PROVIDE (AESACTL1_L, 0x9c2)
+                [!provide]                        PROVIDE (AESACTL1_H, 0x9c3)
+                [!provide]                        PROVIDE (AESASTAT, 0x9c4)
+                [!provide]                        PROVIDE (AESASTAT_L, 0x9c4)
+                [!provide]                        PROVIDE (AESASTAT_H, 0x9c5)
+                [!provide]                        PROVIDE (AESAKEY, 0x9c6)
+                [!provide]                        PROVIDE (AESAKEY_L, 0x9c6)
+                [!provide]                        PROVIDE (AESAKEY_H, 0x9c7)
+                [!provide]                        PROVIDE (AESADIN, 0x9c8)
+                [!provide]                        PROVIDE (AESADIN_L, 0x9c8)
+                [!provide]                        PROVIDE (AESADIN_H, 0x9c9)
+                [!provide]                        PROVIDE (AESADOUT, 0x9ca)
+                [!provide]                        PROVIDE (AESADOUT_L, 0x9ca)
+                [!provide]                        PROVIDE (AESADOUT_H, 0x9cb)
+                [!provide]                        PROVIDE (AESAXDIN, 0x9cc)
+                [!provide]                        PROVIDE (AESAXDIN_L, 0x9cc)
+                [!provide]                        PROVIDE (AESAXDIN_H, 0x9cd)
+                [!provide]                        PROVIDE (AESAXIN, 0x9ce)
+                [!provide]                        PROVIDE (AESAXIN_L, 0x9ce)
+                [!provide]                        PROVIDE (AESAXIN_H, 0x9cf)
+                [!provide]                        PROVIDE (CAPTIO0CTL, 0x43e)
+                [!provide]                        PROVIDE (CAPTIO0CTL_L, 0x43e)
+                [!provide]                        PROVIDE (CAPTIO0CTL_H, 0x43f)
+                [!provide]                        PROVIDE (CAPTIO1CTL, 0x47e)
+                [!provide]                        PROVIDE (CAPTIO1CTL_L, 0x47e)
+                [!provide]                        PROVIDE (CAPTIO1CTL_H, 0x47f)
+                [!provide]                        PROVIDE (CECTL0, 0x8c0)
+                [!provide]                        PROVIDE (CECTL0_L, 0x8c0)
+                [!provide]                        PROVIDE (CECTL0_H, 0x8c1)
+                [!provide]                        PROVIDE (CECTL1, 0x8c2)
+                [!provide]                        PROVIDE (CECTL1_L, 0x8c2)
+                [!provide]                        PROVIDE (CECTL1_H, 0x8c3)
+                [!provide]                        PROVIDE (CECTL2, 0x8c4)
+                [!provide]                        PROVIDE (CECTL2_L, 0x8c4)
+                [!provide]                        PROVIDE (CECTL2_H, 0x8c5)
+                [!provide]                        PROVIDE (CECTL3, 0x8c6)
+                [!provide]                        PROVIDE (CECTL3_L, 0x8c6)
+                [!provide]                        PROVIDE (CECTL3_H, 0x8c7)
+                [!provide]                        PROVIDE (CEINT, 0x8cc)
+                [!provide]                        PROVIDE (CEINT_L, 0x8cc)
+                [!provide]                        PROVIDE (CEINT_H, 0x8cd)
+                [!provide]                        PROVIDE (CEIV, 0x8ce)
+                [!provide]                        PROVIDE (CEIV_L, 0x8ce)
+                [!provide]                        PROVIDE (CEIV_H, 0x8cf)
+                [!provide]                        PROVIDE (CRCDI, 0x150)
+                [!provide]                        PROVIDE (CRCDI_L, 0x150)
+                [!provide]                        PROVIDE (CRCDI_H, 0x151)
+                0x0000000000000152                PROVIDE (CRCDIRB, 0x152)
+                [!provide]                        PROVIDE (CRCDIRB_L, 0x152)
+                [!provide]                        PROVIDE (CRCDIRB_H, 0x153)
+                0x0000000000000154                PROVIDE (CRCINIRES, 0x154)
+                [!provide]                        PROVIDE (CRCINIRES_L, 0x154)
+                [!provide]                        PROVIDE (CRCINIRES_H, 0x155)
+                [!provide]                        PROVIDE (CRCRESR, 0x156)
+                [!provide]                        PROVIDE (CRCRESR_L, 0x156)
+                [!provide]                        PROVIDE (CRCRESR_H, 0x157)
+                [!provide]                        PROVIDE (CSCTL0, 0x160)
+                [!provide]                        PROVIDE (CSCTL0_L, 0x160)
+                0x0000000000000161                PROVIDE (CSCTL0_H, 0x161)
+                0x0000000000000162                PROVIDE (CSCTL1, 0x162)
+                [!provide]                        PROVIDE (CSCTL1_L, 0x162)
+                [!provide]                        PROVIDE (CSCTL1_H, 0x163)
+                0x0000000000000164                PROVIDE (CSCTL2, 0x164)
+                [!provide]                        PROVIDE (CSCTL2_L, 0x164)
+                [!provide]                        PROVIDE (CSCTL2_H, 0x165)
+                0x0000000000000166                PROVIDE (CSCTL3, 0x166)
+                [!provide]                        PROVIDE (CSCTL3_L, 0x166)
+                [!provide]                        PROVIDE (CSCTL3_H, 0x167)
+                0x0000000000000168                PROVIDE (CSCTL4, 0x168)
+                [!provide]                        PROVIDE (CSCTL4_L, 0x168)
+                [!provide]                        PROVIDE (CSCTL4_H, 0x169)
+                [!provide]                        PROVIDE (CSCTL5, 0x16a)
+                [!provide]                        PROVIDE (CSCTL5_L, 0x16a)
+                [!provide]                        PROVIDE (CSCTL5_H, 0x16b)
+                0x000000000000016c                PROVIDE (CSCTL6, 0x16c)
+                [!provide]                        PROVIDE (CSCTL6_L, 0x16c)
+                [!provide]                        PROVIDE (CSCTL6_H, 0x16d)
+                [!provide]                        PROVIDE (DMACTL0, 0x500)
+                [!provide]                        PROVIDE (DMACTL0_L, 0x500)
+                [!provide]                        PROVIDE (DMACTL0_H, 0x501)
+                [!provide]                        PROVIDE (DMACTL1, 0x502)
+                [!provide]                        PROVIDE (DMACTL1_L, 0x502)
+                [!provide]                        PROVIDE (DMACTL1_H, 0x503)
+                [!provide]                        PROVIDE (DMACTL2, 0x504)
+                [!provide]                        PROVIDE (DMACTL2_L, 0x504)
+                [!provide]                        PROVIDE (DMACTL2_H, 0x505)
+                [!provide]                        PROVIDE (DMACTL3, 0x506)
+                [!provide]                        PROVIDE (DMACTL3_L, 0x506)
+                [!provide]                        PROVIDE (DMACTL3_H, 0x507)
+                [!provide]                        PROVIDE (DMACTL4, 0x508)
+                [!provide]                        PROVIDE (DMACTL4_L, 0x508)
+                [!provide]                        PROVIDE (DMACTL4_H, 0x509)
+                [!provide]                        PROVIDE (DMAIV, 0x50e)
+                [!provide]                        PROVIDE (DMAIV_L, 0x50e)
+                [!provide]                        PROVIDE (DMAIV_H, 0x50f)
+                [!provide]                        PROVIDE (DMA0CTL, 0x510)
+                [!provide]                        PROVIDE (DMA0CTL_L, 0x510)
+                [!provide]                        PROVIDE (DMA0CTL_H, 0x511)
+                [!provide]                        PROVIDE (DMA0SA, 0x512)
+                [!provide]                        PROVIDE (DMA0SAL, 0x512)
+                [!provide]                        PROVIDE (DMA0DA, 0x516)
+                [!provide]                        PROVIDE (DMA0DAL, 0x516)
+                [!provide]                        PROVIDE (DMA0SZ, 0x51a)
+                [!provide]                        PROVIDE (DMA1CTL, 0x520)
+                [!provide]                        PROVIDE (DMA1CTL_L, 0x520)
+                [!provide]                        PROVIDE (DMA1CTL_H, 0x521)
+                [!provide]                        PROVIDE (DMA1SA, 0x522)
+                [!provide]                        PROVIDE (DMA1SAL, 0x522)
+                [!provide]                        PROVIDE (DMA1DA, 0x526)
+                [!provide]                        PROVIDE (DMA1DAL, 0x526)
+                [!provide]                        PROVIDE (DMA1SZ, 0x52a)
+                [!provide]                        PROVIDE (DMA2CTL, 0x530)
+                [!provide]                        PROVIDE (DMA2CTL_L, 0x530)
+                [!provide]                        PROVIDE (DMA2CTL_H, 0x531)
+                [!provide]                        PROVIDE (DMA2SA, 0x532)
+                [!provide]                        PROVIDE (DMA2SAL, 0x532)
+                [!provide]                        PROVIDE (DMA2DA, 0x536)
+                [!provide]                        PROVIDE (DMA2DAL, 0x536)
+                [!provide]                        PROVIDE (DMA2SZ, 0x53a)
+                0x0000000000000140                PROVIDE (FRCTL0, 0x140)
+                [!provide]                        PROVIDE (FRCTL0_L, 0x140)
+                [!provide]                        PROVIDE (FRCTL0_H, 0x141)
+                [!provide]                        PROVIDE (GCCTL0, 0x144)
+                [!provide]                        PROVIDE (GCCTL0_L, 0x144)
+                [!provide]                        PROVIDE (GCCTL0_H, 0x145)
+                [!provide]                        PROVIDE (GCCTL1, 0x146)
+                [!provide]                        PROVIDE (GCCTL1_L, 0x146)
+                [!provide]                        PROVIDE (GCCTL1_H, 0x147)
+                [!provide]                        PROVIDE (MPUCTL0, 0x5a0)
+                [!provide]                        PROVIDE (MPUCTL0_L, 0x5a0)
+                [!provide]                        PROVIDE (MPUCTL0_H, 0x5a1)
+                [!provide]                        PROVIDE (MPUCTL1, 0x5a2)
+                [!provide]                        PROVIDE (MPUCTL1_L, 0x5a2)
+                [!provide]                        PROVIDE (MPUCTL1_H, 0x5a3)
+                [!provide]                        PROVIDE (MPUSEGB2, 0x5a4)
+                [!provide]                        PROVIDE (MPUSEGB2_L, 0x5a4)
+                [!provide]                        PROVIDE (MPUSEGB2_H, 0x5a5)
+                [!provide]                        PROVIDE (MPUSEGB1, 0x5a6)
+                [!provide]                        PROVIDE (MPUSEGB1_L, 0x5a6)
+                [!provide]                        PROVIDE (MPUSEGB1_H, 0x5a7)
+                [!provide]                        PROVIDE (MPUSAM, 0x5a8)
+                [!provide]                        PROVIDE (MPUSAM_L, 0x5a8)
+                [!provide]                        PROVIDE (MPUSAM_H, 0x5a9)
+                [!provide]                        PROVIDE (MPUIPC0, 0x5aa)
+                [!provide]                        PROVIDE (MPUIPC0_L, 0x5aa)
+                [!provide]                        PROVIDE (MPUIPC0_H, 0x5ab)
+                [!provide]                        PROVIDE (MPUIPSEGB2, 0x5ac)
+                [!provide]                        PROVIDE (MPUIPSEGB2_L, 0x5ac)
+                [!provide]                        PROVIDE (MPUIPSEGB2_H, 0x5ad)
+                [!provide]                        PROVIDE (MPUIPSEGB1, 0x5ae)
+                [!provide]                        PROVIDE (MPUIPSEGB1_L, 0x5ae)
+                [!provide]                        PROVIDE (MPUIPSEGB1_H, 0x5af)
+                [!provide]                        PROVIDE (MPY, 0x4c0)
+                [!provide]                        PROVIDE (MPY_L, 0x4c0)
+                [!provide]                        PROVIDE (MPY_H, 0x4c1)
+                [!provide]                        PROVIDE (MPYS, 0x4c2)
+                [!provide]                        PROVIDE (MPYS_L, 0x4c2)
+                [!provide]                        PROVIDE (MPYS_H, 0x4c3)
+                [!provide]                        PROVIDE (MAC, 0x4c4)
+                [!provide]                        PROVIDE (MAC_L, 0x4c4)
+                [!provide]                        PROVIDE (MAC_H, 0x4c5)
+                [!provide]                        PROVIDE (MACS, 0x4c6)
+                [!provide]                        PROVIDE (MACS_L, 0x4c6)
+                [!provide]                        PROVIDE (MACS_H, 0x4c7)
+                [!provide]                        PROVIDE (OP2, 0x4c8)
+                [!provide]                        PROVIDE (OP2_L, 0x4c8)
+                [!provide]                        PROVIDE (OP2_H, 0x4c9)
+                [!provide]                        PROVIDE (RESLO, 0x4ca)
+                [!provide]                        PROVIDE (RESLO_L, 0x4ca)
+                [!provide]                        PROVIDE (RESLO_H, 0x4cb)
+                [!provide]                        PROVIDE (RESHI, 0x4cc)
+                [!provide]                        PROVIDE (RESHI_L, 0x4cc)
+                [!provide]                        PROVIDE (RESHI_H, 0x4cd)
+                [!provide]                        PROVIDE (SUMEXT, 0x4ce)
+                [!provide]                        PROVIDE (SUMEXT_L, 0x4ce)
+                [!provide]                        PROVIDE (SUMEXT_H, 0x4cf)
+                [!provide]                        PROVIDE (MPY32L, 0x4d0)
+                [!provide]                        PROVIDE (MPY32L_L, 0x4d0)
+                [!provide]                        PROVIDE (MPY32L_H, 0x4d1)
+                [!provide]                        PROVIDE (MPY32H, 0x4d2)
+                [!provide]                        PROVIDE (MPY32H_L, 0x4d2)
+                [!provide]                        PROVIDE (MPY32H_H, 0x4d3)
+                [!provide]                        PROVIDE (MPYS32L, 0x4d4)
+                [!provide]                        PROVIDE (MPYS32L_L, 0x4d4)
+                [!provide]                        PROVIDE (MPYS32L_H, 0x4d5)
+                [!provide]                        PROVIDE (MPYS32H, 0x4d6)
+                [!provide]                        PROVIDE (MPYS32H_L, 0x4d6)
+                [!provide]                        PROVIDE (MPYS32H_H, 0x4d7)
+                [!provide]                        PROVIDE (MAC32L, 0x4d8)
+                [!provide]                        PROVIDE (MAC32L_L, 0x4d8)
+                [!provide]                        PROVIDE (MAC32L_H, 0x4d9)
+                [!provide]                        PROVIDE (MAC32H, 0x4da)
+                [!provide]                        PROVIDE (MAC32H_L, 0x4da)
+                [!provide]                        PROVIDE (MAC32H_H, 0x4db)
+                [!provide]                        PROVIDE (MACS32L, 0x4dc)
+                [!provide]                        PROVIDE (MACS32L_L, 0x4dc)
+                [!provide]                        PROVIDE (MACS32L_H, 0x4dd)
+                [!provide]                        PROVIDE (MACS32H, 0x4de)
+                [!provide]                        PROVIDE (MACS32H_L, 0x4de)
+                [!provide]                        PROVIDE (MACS32H_H, 0x4df)
+                [!provide]                        PROVIDE (OP2L, 0x4e0)
+                [!provide]                        PROVIDE (OP2L_L, 0x4e0)
+                [!provide]                        PROVIDE (OP2L_H, 0x4e1)
+                [!provide]                        PROVIDE (OP2H, 0x4e2)
+                [!provide]                        PROVIDE (OP2H_L, 0x4e2)
+                [!provide]                        PROVIDE (OP2H_H, 0x4e3)
+                [!provide]                        PROVIDE (RES0, 0x4e4)
+                [!provide]                        PROVIDE (RES0_L, 0x4e4)
+                [!provide]                        PROVIDE (RES0_H, 0x4e5)
+                [!provide]                        PROVIDE (RES1, 0x4e6)
+                [!provide]                        PROVIDE (RES1_L, 0x4e6)
+                [!provide]                        PROVIDE (RES1_H, 0x4e7)
+                [!provide]                        PROVIDE (RES2, 0x4e8)
+                [!provide]                        PROVIDE (RES2_L, 0x4e8)
+                [!provide]                        PROVIDE (RES2_H, 0x4e9)
+                [!provide]                        PROVIDE (RES3, 0x4ea)
+                [!provide]                        PROVIDE (RES3_L, 0x4ea)
+                [!provide]                        PROVIDE (RES3_H, 0x4eb)
+                [!provide]                        PROVIDE (MPY32CTL0, 0x4ec)
+                [!provide]                        PROVIDE (MPY32CTL0_L, 0x4ec)
+                [!provide]                        PROVIDE (MPY32CTL0_H, 0x4ed)
+                [!provide]                        PROVIDE (PMMCTL0, 0x120)
+                [!provide]                        PROVIDE (PMMCTL0_L, 0x120)
+                [!provide]                        PROVIDE (PMMCTL0_H, 0x121)
+                [!provide]                        PROVIDE (PMMIFG, 0x12a)
+                [!provide]                        PROVIDE (PMMIFG_L, 0x12a)
+                [!provide]                        PROVIDE (PMMIFG_H, 0x12b)
+                0x0000000000000130                PROVIDE (PM5CTL0, 0x130)
+                [!provide]                        PROVIDE (PM5CTL0_L, 0x130)
+                [!provide]                        PROVIDE (PM5CTL0_H, 0x131)
+                [!provide]                        PROVIDE (PAIN, 0x200)
+                [!provide]                        PROVIDE (PAIN_L, 0x200)
+                [!provide]                        PROVIDE (PAIN_H, 0x201)
+                [!provide]                        PROVIDE (PAOUT, 0x202)
+                0x0000000000000202                PROVIDE (PAOUT_L, 0x202)
+                0x0000000000000203                PROVIDE (PAOUT_H, 0x203)
+                [!provide]                        PROVIDE (PADIR, 0x204)
+                0x0000000000000204                PROVIDE (PADIR_L, 0x204)
+                0x0000000000000205                PROVIDE (PADIR_H, 0x205)
+                [!provide]                        PROVIDE (PAREN, 0x206)
+                [!provide]                        PROVIDE (PAREN_L, 0x206)
+                [!provide]                        PROVIDE (PAREN_H, 0x207)
+                [!provide]                        PROVIDE (PASEL0, 0x20a)
+                0x000000000000020a                PROVIDE (PASEL0_L, 0x20a)
+                [!provide]                        PROVIDE (PASEL0_H, 0x20b)
+                [!provide]                        PROVIDE (PASEL1, 0x20c)
+                [!provide]                        PROVIDE (PASEL1_L, 0x20c)
+                [!provide]                        PROVIDE (PASEL1_H, 0x20d)
+                [!provide]                        PROVIDE (PASELC, 0x216)
+                [!provide]                        PROVIDE (PASELC_L, 0x216)
+                [!provide]                        PROVIDE (PASELC_H, 0x217)
+                [!provide]                        PROVIDE (PAIES, 0x218)
+                [!provide]                        PROVIDE (PAIES_L, 0x218)
+                [!provide]                        PROVIDE (PAIES_H, 0x219)
+                [!provide]                        PROVIDE (PAIE, 0x21a)
+                [!provide]                        PROVIDE (PAIE_L, 0x21a)
+                [!provide]                        PROVIDE (PAIE_H, 0x21b)
+                [!provide]                        PROVIDE (PAIFG, 0x21c)
+                [!provide]                        PROVIDE (PAIFG_L, 0x21c)
+                [!provide]                        PROVIDE (PAIFG_H, 0x21d)
+                [!provide]                        PROVIDE (P1IV, 0x20e)
+                [!provide]                        PROVIDE (P2IV, 0x21e)
+                [!provide]                        PROVIDE (PBIN, 0x220)
+                [!provide]                        PROVIDE (PBIN_L, 0x220)
+                [!provide]                        PROVIDE (PBIN_H, 0x221)
+                [!provide]                        PROVIDE (PBOUT, 0x222)
+                0x0000000000000222                PROVIDE (PBOUT_L, 0x222)
+                0x0000000000000223                PROVIDE (PBOUT_H, 0x223)
+                [!provide]                        PROVIDE (PBDIR, 0x224)
+                0x0000000000000224                PROVIDE (PBDIR_L, 0x224)
+                0x0000000000000225                PROVIDE (PBDIR_H, 0x225)
+                [!provide]                        PROVIDE (PBREN, 0x226)
+                [!provide]                        PROVIDE (PBREN_L, 0x226)
+                [!provide]                        PROVIDE (PBREN_H, 0x227)
+                [!provide]                        PROVIDE (PBSEL0, 0x22a)
+                [!provide]                        PROVIDE (PBSEL0_L, 0x22a)
+                [!provide]                        PROVIDE (PBSEL0_H, 0x22b)
+                [!provide]                        PROVIDE (PBSEL1, 0x22c)
+                [!provide]                        PROVIDE (PBSEL1_L, 0x22c)
+                [!provide]                        PROVIDE (PBSEL1_H, 0x22d)
+                [!provide]                        PROVIDE (PBSELC, 0x236)
+                [!provide]                        PROVIDE (PBSELC_L, 0x236)
+                [!provide]                        PROVIDE (PBSELC_H, 0x237)
+                [!provide]                        PROVIDE (PBIES, 0x238)
+                [!provide]                        PROVIDE (PBIES_L, 0x238)
+                [!provide]                        PROVIDE (PBIES_H, 0x239)
+                [!provide]                        PROVIDE (PBIE, 0x23a)
+                [!provide]                        PROVIDE (PBIE_L, 0x23a)
+                [!provide]                        PROVIDE (PBIE_H, 0x23b)
+                [!provide]                        PROVIDE (PBIFG, 0x23c)
+                [!provide]                        PROVIDE (PBIFG_L, 0x23c)
+                [!provide]                        PROVIDE (PBIFG_H, 0x23d)
+                [!provide]                        PROVIDE (P3IV, 0x22e)
+                [!provide]                        PROVIDE (P4IV, 0x23e)
+                [!provide]                        PROVIDE (PJIN, 0x320)
+                [!provide]                        PROVIDE (PJIN_L, 0x320)
+                [!provide]                        PROVIDE (PJIN_H, 0x321)
+                0x0000000000000322                PROVIDE (PJOUT, 0x322)
+                [!provide]                        PROVIDE (PJOUT_L, 0x322)
+                [!provide]                        PROVIDE (PJOUT_H, 0x323)
+                0x0000000000000324                PROVIDE (PJDIR, 0x324)
+                [!provide]                        PROVIDE (PJDIR_L, 0x324)
+                [!provide]                        PROVIDE (PJDIR_H, 0x325)
+                [!provide]                        PROVIDE (PJREN, 0x326)
+                [!provide]                        PROVIDE (PJREN_L, 0x326)
+                [!provide]                        PROVIDE (PJREN_H, 0x327)
+                0x000000000000032a                PROVIDE (PJSEL0, 0x32a)
+                [!provide]                        PROVIDE (PJSEL0_L, 0x32a)
+                [!provide]                        PROVIDE (PJSEL0_H, 0x32b)
+                [!provide]                        PROVIDE (PJSEL1, 0x32c)
+                [!provide]                        PROVIDE (PJSEL1_L, 0x32c)
+                [!provide]                        PROVIDE (PJSEL1_H, 0x32d)
+                [!provide]                        PROVIDE (PJSELC, 0x336)
+                [!provide]                        PROVIDE (PJSELC_L, 0x336)
+                [!provide]                        PROVIDE (PJSELC_H, 0x337)
+                [!provide]                        PROVIDE (REFCTL0, 0x1b0)
+                [!provide]                        PROVIDE (REFCTL0_L, 0x1b0)
+                [!provide]                        PROVIDE (REFCTL0_H, 0x1b1)
+                [!provide]                        PROVIDE (RTCCTL01, 0x4a0)
+                [!provide]                        PROVIDE (RTCCTL01_L, 0x4a0)
+                [!provide]                        PROVIDE (RTCCTL01_H, 0x4a1)
+                [!provide]                        PROVIDE (RTCCTL23, 0x4a2)
+                [!provide]                        PROVIDE (RTCCTL23_L, 0x4a2)
+                [!provide]                        PROVIDE (RTCCTL23_H, 0x4a3)
+                [!provide]                        PROVIDE (RTCPS0CTL, 0x4a8)
+                [!provide]                        PROVIDE (RTCPS0CTL_L, 0x4a8)
+                [!provide]                        PROVIDE (RTCPS0CTL_H, 0x4a9)
+                [!provide]                        PROVIDE (RTCPS1CTL, 0x4aa)
+                [!provide]                        PROVIDE (RTCPS1CTL_L, 0x4aa)
+                [!provide]                        PROVIDE (RTCPS1CTL_H, 0x4ab)
+                [!provide]                        PROVIDE (RTCPS, 0x4ac)
+                [!provide]                        PROVIDE (RTCPS_L, 0x4ac)
+                [!provide]                        PROVIDE (RTCPS_H, 0x4ad)
+                [!provide]                        PROVIDE (RTCIV, 0x4ae)
+                [!provide]                        PROVIDE (RTCTIM0, 0x4b0)
+                [!provide]                        PROVIDE (RTCTIM0_L, 0x4b0)
+                [!provide]                        PROVIDE (RTCTIM0_H, 0x4b1)
+                [!provide]                        PROVIDE (RTCTIM1, 0x4b2)
+                [!provide]                        PROVIDE (RTCTIM1_L, 0x4b2)
+                [!provide]                        PROVIDE (RTCTIM1_H, 0x4b3)
+                [!provide]                        PROVIDE (RTCDATE, 0x4b4)
+                [!provide]                        PROVIDE (RTCDATE_L, 0x4b4)
+                [!provide]                        PROVIDE (RTCDATE_H, 0x4b5)
+                [!provide]                        PROVIDE (RTCYEAR, 0x4b6)
+                [!provide]                        PROVIDE (RTCYEAR_L, 0x4b6)
+                [!provide]                        PROVIDE (RTCYEAR_H, 0x4b7)
+                [!provide]                        PROVIDE (RTCAMINHR, 0x4b8)
+                [!provide]                        PROVIDE (RTCAMINHR_L, 0x4b8)
+                [!provide]                        PROVIDE (RTCAMINHR_H, 0x4b9)
+                [!provide]                        PROVIDE (RTCADOWDAY, 0x4ba)
+                [!provide]                        PROVIDE (RTCADOWDAY_L, 0x4ba)
+                [!provide]                        PROVIDE (RTCADOWDAY_H, 0x4bb)
+                [!provide]                        PROVIDE (BIN2BCD, 0x4bc)
+                [!provide]                        PROVIDE (BCD2BIN, 0x4be)
+                [!provide]                        PROVIDE (SFRIE1, 0x100)
+                [!provide]                        PROVIDE (SFRIE1_L, 0x100)
+                [!provide]                        PROVIDE (SFRIE1_H, 0x101)
+                [!provide]                        PROVIDE (SFRIFG1, 0x102)
+                [!provide]                        PROVIDE (SFRIFG1_L, 0x102)
+                [!provide]                        PROVIDE (SFRIFG1_H, 0x103)
+                [!provide]                        PROVIDE (SFRRPCR, 0x104)
+                [!provide]                        PROVIDE (SFRRPCR_L, 0x104)
+                [!provide]                        PROVIDE (SFRRPCR_H, 0x105)
+                [!provide]                        PROVIDE (SYSCTL, 0x180)
+                [!provide]                        PROVIDE (SYSCTL_L, 0x180)
+                [!provide]                        PROVIDE (SYSCTL_H, 0x181)
+                [!provide]                        PROVIDE (SYSJMBC, 0x186)
+                [!provide]                        PROVIDE (SYSJMBC_L, 0x186)
+                [!provide]                        PROVIDE (SYSJMBC_H, 0x187)
+                [!provide]                        PROVIDE (SYSJMBI0, 0x188)
+                [!provide]                        PROVIDE (SYSJMBI0_L, 0x188)
+                [!provide]                        PROVIDE (SYSJMBI0_H, 0x189)
+                [!provide]                        PROVIDE (SYSJMBI1, 0x18a)
+                [!provide]                        PROVIDE (SYSJMBI1_L, 0x18a)
+                [!provide]                        PROVIDE (SYSJMBI1_H, 0x18b)
+                [!provide]                        PROVIDE (SYSJMBO0, 0x18c)
+                [!provide]                        PROVIDE (SYSJMBO0_L, 0x18c)
+                [!provide]                        PROVIDE (SYSJMBO0_H, 0x18d)
+                [!provide]                        PROVIDE (SYSJMBO1, 0x18e)
+                [!provide]                        PROVIDE (SYSJMBO1_L, 0x18e)
+                [!provide]                        PROVIDE (SYSJMBO1_H, 0x18f)
+                [!provide]                        PROVIDE (SYSUNIV, 0x19a)
+                [!provide]                        PROVIDE (SYSUNIV_L, 0x19a)
+                [!provide]                        PROVIDE (SYSUNIV_H, 0x19b)
+                [!provide]                        PROVIDE (SYSSNIV, 0x19c)
+                [!provide]                        PROVIDE (SYSSNIV_L, 0x19c)
+                [!provide]                        PROVIDE (SYSSNIV_H, 0x19d)
+                [!provide]                        PROVIDE (SYSRSTIV, 0x19e)
+                [!provide]                        PROVIDE (SYSRSTIV_L, 0x19e)
+                [!provide]                        PROVIDE (SYSRSTIV_H, 0x19f)
+                [!provide]                        PROVIDE (TA0CTL, 0x340)
+                [!provide]                        PROVIDE (TA0CCTL0, 0x342)
+                [!provide]                        PROVIDE (TA0CCTL1, 0x344)
+                [!provide]                        PROVIDE (TA0CCTL2, 0x346)
+                [!provide]                        PROVIDE (TA0R, 0x350)
+                [!provide]                        PROVIDE (TA0CCR0, 0x352)
+                [!provide]                        PROVIDE (TA0CCR1, 0x354)
+                [!provide]                        PROVIDE (TA0CCR2, 0x356)
+                [!provide]                        PROVIDE (TA0IV, 0x36e)
+                [!provide]                        PROVIDE (TA0EX0, 0x360)
+                0x0000000000000380                PROVIDE (TA1CTL, 0x380)
+                0x0000000000000382                PROVIDE (TA1CCTL0, 0x382)
+                [!provide]                        PROVIDE (TA1CCTL1, 0x384)
+                0x0000000000000386                PROVIDE (TA1CCTL2, 0x386)
+                0x0000000000000390                PROVIDE (TA1R, 0x390)
+                0x0000000000000392                PROVIDE (TA1CCR0, 0x392)
+                [!provide]                        PROVIDE (TA1CCR1, 0x394)
+                0x0000000000000396                PROVIDE (TA1CCR2, 0x396)
+                0x00000000000003ae                PROVIDE (TA1IV, 0x3ae)
+                [!provide]                        PROVIDE (TA1EX0, 0x3a0)
+                0x0000000000000400                PROVIDE (TA2CTL, 0x400)
+                [!provide]                        PROVIDE (TA2CCTL0, 0x402)
+                0x0000000000000404                PROVIDE (TA2CCTL1, 0x404)
+                0x0000000000000410                PROVIDE (TA2R, 0x410)
+                [!provide]                        PROVIDE (TA2CCR0, 0x412)
+                0x0000000000000414                PROVIDE (TA2CCR1, 0x414)
+                0x000000000000042e                PROVIDE (TA2IV, 0x42e)
+                [!provide]                        PROVIDE (TA2EX0, 0x420)
+                [!provide]                        PROVIDE (TA3CTL, 0x440)
+                [!provide]                        PROVIDE (TA3CCTL0, 0x442)
+                [!provide]                        PROVIDE (TA3CCTL1, 0x444)
+                [!provide]                        PROVIDE (TA3R, 0x450)
+                [!provide]                        PROVIDE (TA3CCR0, 0x452)
+                [!provide]                        PROVIDE (TA3CCR1, 0x454)
+                [!provide]                        PROVIDE (TA3IV, 0x46e)
+                [!provide]                        PROVIDE (TA3EX0, 0x460)
+                0x00000000000003c0                PROVIDE (TB0CTL, 0x3c0)
+                [!provide]                        PROVIDE (TB0CCTL0, 0x3c2)
+                [!provide]                        PROVIDE (TB0CCTL1, 0x3c4)
+                [!provide]                        PROVIDE (TB0CCTL2, 0x3c6)
+                0x00000000000003c8                PROVIDE (TB0CCTL3, 0x3c8)
+                [!provide]                        PROVIDE (TB0CCTL4, 0x3ca)
+                [!provide]                        PROVIDE (TB0CCTL5, 0x3cc)
+                [!provide]                        PROVIDE (TB0CCTL6, 0x3ce)
+                [!provide]                        PROVIDE (TB0R, 0x3d0)
+                0x00000000000003d2                PROVIDE (TB0CCR0, 0x3d2)
+                [!provide]                        PROVIDE (TB0CCR1, 0x3d4)
+                [!provide]                        PROVIDE (TB0CCR2, 0x3d6)
+                0x00000000000003d8                PROVIDE (TB0CCR3, 0x3d8)
+                [!provide]                        PROVIDE (TB0CCR4, 0x3da)
+                [!provide]                        PROVIDE (TB0CCR5, 0x3dc)
+                [!provide]                        PROVIDE (TB0CCR6, 0x3de)
+                [!provide]                        PROVIDE (TB0EX0, 0x3e0)
+                0x00000000000003ee                PROVIDE (TB0IV, 0x3ee)
+                [!provide]                        PROVIDE (UCA0CTLW0, 0x5c0)
+                [!provide]                        PROVIDE (UCA0CTLW0_L, 0x5c0)
+                [!provide]                        PROVIDE (UCA0CTLW0_H, 0x5c1)
+                [!provide]                        PROVIDE (UCA0CTLW1, 0x5c2)
+                [!provide]                        PROVIDE (UCA0CTLW1_L, 0x5c2)
+                [!provide]                        PROVIDE (UCA0CTLW1_H, 0x5c3)
+                [!provide]                        PROVIDE (UCA0BRW, 0x5c6)
+                [!provide]                        PROVIDE (UCA0BRW_L, 0x5c6)
+                [!provide]                        PROVIDE (UCA0BRW_H, 0x5c7)
+                [!provide]                        PROVIDE (UCA0MCTLW, 0x5c8)
+                [!provide]                        PROVIDE (UCA0MCTLW_L, 0x5c8)
+                [!provide]                        PROVIDE (UCA0MCTLW_H, 0x5c9)
+                [!provide]                        PROVIDE (UCA0STATW, 0x5ca)
+                [!provide]                        PROVIDE (UCA0RXBUF, 0x5cc)
+                [!provide]                        PROVIDE (UCA0RXBUF_L, 0x5cc)
+                [!provide]                        PROVIDE (UCA0RXBUF_H, 0x5cd)
+                [!provide]                        PROVIDE (UCA0TXBUF, 0x5ce)
+                [!provide]                        PROVIDE (UCA0TXBUF_L, 0x5ce)
+                [!provide]                        PROVIDE (UCA0TXBUF_H, 0x5cf)
+                [!provide]                        PROVIDE (UCA0ABCTL, 0x5d0)
+                [!provide]                        PROVIDE (UCA0IRCTL, 0x5d2)
+                [!provide]                        PROVIDE (UCA0IRCTL_L, 0x5d2)
+                [!provide]                        PROVIDE (UCA0IRCTL_H, 0x5d3)
+                [!provide]                        PROVIDE (UCA0IE, 0x5da)
+                [!provide]                        PROVIDE (UCA0IE_L, 0x5da)
+                [!provide]                        PROVIDE (UCA0IE_H, 0x5db)
+                [!provide]                        PROVIDE (UCA0IFG, 0x5dc)
+                [!provide]                        PROVIDE (UCA0IFG_L, 0x5dc)
+                [!provide]                        PROVIDE (UCA0IFG_H, 0x5dd)
+                [!provide]                        PROVIDE (UCA0IV, 0x5de)
+                [!provide]                        PROVIDE (UCA1CTLW0, 0x5e0)
+                [!provide]                        PROVIDE (UCA1CTLW0_L, 0x5e0)
+                [!provide]                        PROVIDE (UCA1CTLW0_H, 0x5e1)
+                [!provide]                        PROVIDE (UCA1CTLW1, 0x5e2)
+                [!provide]                        PROVIDE (UCA1CTLW1_L, 0x5e2)
+                [!provide]                        PROVIDE (UCA1CTLW1_H, 0x5e3)
+                [!provide]                        PROVIDE (UCA1BRW, 0x5e6)
+                [!provide]                        PROVIDE (UCA1BRW_L, 0x5e6)
+                [!provide]                        PROVIDE (UCA1BRW_H, 0x5e7)
+                [!provide]                        PROVIDE (UCA1MCTLW, 0x5e8)
+                [!provide]                        PROVIDE (UCA1MCTLW_L, 0x5e8)
+                [!provide]                        PROVIDE (UCA1MCTLW_H, 0x5e9)
+                [!provide]                        PROVIDE (UCA1STATW, 0x5ea)
+                [!provide]                        PROVIDE (UCA1RXBUF, 0x5ec)
+                [!provide]                        PROVIDE (UCA1RXBUF_L, 0x5ec)
+                [!provide]                        PROVIDE (UCA1RXBUF_H, 0x5ed)
+                [!provide]                        PROVIDE (UCA1TXBUF, 0x5ee)
+                [!provide]                        PROVIDE (UCA1TXBUF_L, 0x5ee)
+                [!provide]                        PROVIDE (UCA1TXBUF_H, 0x5ef)
+                [!provide]                        PROVIDE (UCA1ABCTL, 0x5f0)
+                [!provide]                        PROVIDE (UCA1IRCTL, 0x5f2)
+                [!provide]                        PROVIDE (UCA1IRCTL_L, 0x5f2)
+                [!provide]                        PROVIDE (UCA1IRCTL_H, 0x5f3)
+                [!provide]                        PROVIDE (UCA1IE, 0x5fa)
+                [!provide]                        PROVIDE (UCA1IE_L, 0x5fa)
+                [!provide]                        PROVIDE (UCA1IE_H, 0x5fb)
+                [!provide]                        PROVIDE (UCA1IFG, 0x5fc)
+                [!provide]                        PROVIDE (UCA1IFG_L, 0x5fc)
+                [!provide]                        PROVIDE (UCA1IFG_H, 0x5fd)
+                [!provide]                        PROVIDE (UCA1IV, 0x5fe)
+                [!provide]                        PROVIDE (UCB0CTLW0, 0x640)
+                [!provide]                        PROVIDE (UCB0CTLW0_L, 0x640)
+                [!provide]                        PROVIDE (UCB0CTLW0_H, 0x641)
+                [!provide]                        PROVIDE (UCB0CTLW1, 0x642)
+                [!provide]                        PROVIDE (UCB0CTLW1_L, 0x642)
+                [!provide]                        PROVIDE (UCB0CTLW1_H, 0x643)
+                [!provide]                        PROVIDE (UCB0BRW, 0x646)
+                [!provide]                        PROVIDE (UCB0BRW_L, 0x646)
+                [!provide]                        PROVIDE (UCB0BRW_H, 0x647)
+                [!provide]                        PROVIDE (UCB0STATW, 0x648)
+                [!provide]                        PROVIDE (UCB0STATW_L, 0x648)
+                [!provide]                        PROVIDE (UCB0STATW_H, 0x649)
+                [!provide]                        PROVIDE (UCB0TBCNT, 0x64a)
+                [!provide]                        PROVIDE (UCB0TBCNT_L, 0x64a)
+                [!provide]                        PROVIDE (UCB0TBCNT_H, 0x64b)
+                [!provide]                        PROVIDE (UCB0RXBUF, 0x64c)
+                [!provide]                        PROVIDE (UCB0RXBUF_L, 0x64c)
+                [!provide]                        PROVIDE (UCB0RXBUF_H, 0x64d)
+                [!provide]                        PROVIDE (UCB0TXBUF, 0x64e)
+                [!provide]                        PROVIDE (UCB0TXBUF_L, 0x64e)
+                [!provide]                        PROVIDE (UCB0TXBUF_H, 0x64f)
+                [!provide]                        PROVIDE (UCB0I2COA0, 0x654)
+                [!provide]                        PROVIDE (UCB0I2COA0_L, 0x654)
+                [!provide]                        PROVIDE (UCB0I2COA0_H, 0x655)
+                [!provide]                        PROVIDE (UCB0I2COA1, 0x656)
+                [!provide]                        PROVIDE (UCB0I2COA1_L, 0x656)
+                [!provide]                        PROVIDE (UCB0I2COA1_H, 0x657)
+                [!provide]                        PROVIDE (UCB0I2COA2, 0x658)
+                [!provide]                        PROVIDE (UCB0I2COA2_L, 0x658)
+                [!provide]                        PROVIDE (UCB0I2COA2_H, 0x659)
+                [!provide]                        PROVIDE (UCB0I2COA3, 0x65a)
+                [!provide]                        PROVIDE (UCB0I2COA3_L, 0x65a)
+                [!provide]                        PROVIDE (UCB0I2COA3_H, 0x65b)
+                [!provide]                        PROVIDE (UCB0ADDRX, 0x65c)
+                [!provide]                        PROVIDE (UCB0ADDRX_L, 0x65c)
+                [!provide]                        PROVIDE (UCB0ADDRX_H, 0x65d)
+                [!provide]                        PROVIDE (UCB0ADDMASK, 0x65e)
+                [!provide]                        PROVIDE (UCB0ADDMASK_L, 0x65e)
+                [!provide]                        PROVIDE (UCB0ADDMASK_H, 0x65f)
+                [!provide]                        PROVIDE (UCB0I2CSA, 0x660)
+                [!provide]                        PROVIDE (UCB0I2CSA_L, 0x660)
+                [!provide]                        PROVIDE (UCB0I2CSA_H, 0x661)
+                [!provide]                        PROVIDE (UCB0IE, 0x66a)
+                [!provide]                        PROVIDE (UCB0IE_L, 0x66a)
+                [!provide]                        PROVIDE (UCB0IE_H, 0x66b)
+                [!provide]                        PROVIDE (UCB0IFG, 0x66c)
+                [!provide]                        PROVIDE (UCB0IFG_L, 0x66c)
+                [!provide]                        PROVIDE (UCB0IFG_H, 0x66d)
+                [!provide]                        PROVIDE (UCB0IV, 0x66e)
+                0x000000000000015c                PROVIDE (WDTCTL, 0x15c)
+                [!provide]                        PROVIDE (WDTCTL_L, 0x15c)
+                [!provide]                        PROVIDE (WDTCTL_H, 0x15d)
+OUTPUT(T2Tnetwork.out elf32-msp430)
